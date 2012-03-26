@@ -1,0 +1,47 @@
+breadcrumbs.txt
+Created Fri Jun 29 11:09:25 AKDT 2007
+by Raymond E. Marcil 
+
+
+Information learned while working on AMI MOA Inspection Request 
+project July 2007.
+
+The COPortal in the administrative interface uses a cookie trail 
+toolbar to display location and provide easy navigation.
+
+
+Tue Jul 03 09:32:40 AKDT 2007
+=============================
+The breadcrumb trail is implement in the getlayer4() function in 
+menus.cfc. It is displayed dynamically as needed on every page 
+at the bottom of the header.  Implementation required the use of
+the L4 URL parameter the discipline editor, mainTypes.cfm and 
+viewType.cfm were conflicting and using L4. Modified to use 
+"subtype" URL parameter which getlayer4() uses to set the 
+breadcrumb trail dynamically. A bit tricky but works well.
+
+
+Mon Jul 02 08:26:56 AKDT 2007
+=============================
+Decided that use of javascript for the cookie trail is overly complicated. 
+Going to hard-code a breadcrumb trail in the administration interface.
+
+messages.cfm:202
+<ul class="type3" style="text-align:left;margin-left:0px;margin-top:15px;">
+    <li class="first"><a href="#SESSION.bsdinspect.bsdinspectHome#/?L1=bsdinspecthome&L2=COportal">PORTAL</a>&nbsp;&nbsp;</li>
+    <li class="last" style="color:##000000;">MESSAGES LIST</li>
+</ul>
+
+
+Links:
+=====
+Breadcrumb (navigation)
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Breadcrumb_(navigation)
+
+Breadcrumbs
+http://developer.yahoo.com/ypatterns/pattern.php?pattern=breadcrumbs
+
+Cookies and ColdFusion
+Page 5 - Reading the Cookie  
+http://www.webmonkey.com/webmonkey/00/29/index3a_page5.html?tw=programming
