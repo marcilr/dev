@@ -8,11 +8,6 @@ Filelist
 breadcrumbs.txt
   Implementaton of breadcrumb trail in cfm files at AMI circa 2007.
 
-releases.txt
-  Meaning of software version .0 to .9
-  Do Software Versions Really Matter?
-  http://ask.slashdot.org/askslashdot/08/10/15/2118240.shtml
-
 speech-recognition.txt
   Speach recognition is an area ready for a breakthrough.
   Speach recognition links.
@@ -26,9 +21,6 @@ unicode.txt
 
 unixtime.txt
   Unixtime info.
-
-version.txt
-  Implementation of project VERSION file.
 
 uncanny-gap.txt
   While watching Science of the Movies on the Discovery, on TiVo on Nov 24, 2009, saw a great
