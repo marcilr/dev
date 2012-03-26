@@ -8,6 +8,10 @@ Filelist
 breadcrumbs.txt
   Implementaton of breadcrumb trail in cfm files at AMI circa 2007.
 
+stubs.txt
+  This looks like the idea for depsrc a package I build to resolve build dependencies in ant's
+  build.xml
+
 unicode.txt
   Notes on unicode.
 
