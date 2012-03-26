@@ -1,0 +1,12 @@
+pass.txt
+Created Wed Oct 24 07:52:00 AKDT 2007
+by Raymond E. Marcil
+
+
+Programs being developed often take passwords to access 
+network resources.  Rather than check passwords into
+source repositories it is a better idea to save them
+in .properties file in the developer's home directory.
+
+TODO: Need to document the best way to do this
+      for Java and Ruby.
