@@ -8,6 +8,9 @@ Filelist
 breadcrumbs.txt
   Implementaton of breadcrumb trail in cfm files at AMI circa 2007.
 
+unicode.txt
+  Notes on unicode.
+
 unixtime.txt
   Unixtime info.
 
