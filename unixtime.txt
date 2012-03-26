@@ -1,0 +1,41 @@
+unixtime.txt
+Created Thu Jan  8 15:55:09 AKST 2009
+by Raymond E. Marcil
+
+
+Whilst working at UAA ITS I ran into Elluminate Inc. software which
+appears to store startDate & endDate values in ms sql 2005 tables 
+(elive.Meetings) in unixtime (posix) values.  
+
+Working on easy encoding/decoding.
+
+Date/Time/Unixtime
+1. How to convert date to unixtime in perl (or vice versa)
+# time return number of seconds since 0 in your computer (1 jan 1970) on unix
+# localtime converts unixtime to normal dates
+To convert a specific date to its corresponding unixtime, you use Time::Local, the function 
+looks like this:
+
+      $time = timelocal($sec,$min,$hours,$mday,$mon,$year); 
+
+so to convert 3rd of Sept 2000 to unixtime, (note that jan=0,feb=1,...):
+
+  use Time::Local;
+  $time = timelocal(0,0,0,'3','08','2000');
+  
+
+Related links: Dates and Times in Perl. See also manpages for the functions used. 
+
+from: edlin.org/
+
+
+
+Links
+=====
+Perl tips
+Date/Time/Unixtime
+http://www.edlin.org/perl/
+
+
+
+
