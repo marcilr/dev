@@ -1,0 +1,15 @@
+unicode.txt                                               
+Created Mon May  3 09:05:22 AKDT 2010
+by Raymond E. Marcil
+
+
+
+
+
+Links
+=====
+The Absolute Minimum Every Software Developer Absolutely,
+Positively Must Know About Unicode and Character Sets (No Excuses!)
+by Joel Spolsky
+Good stuff - need to absorb this one.
+http://www.joelonsoftware.com/articles/Unicode.html
