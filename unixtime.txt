@@ -4,7 +4,7 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Unix time, or POSIX time, is a system for describing instances in time, defined as the number of
-seconds that have elapsed since midnight Coordinated Universal Time (UTC), 1 January 1970,[note 1]
+seconds that have elapsed since midnight Coordinated Universal Time (UTC), 1 January 1970, [note 1]
 not counting leap seconds.[note 2]  It is used widely in Unix-like and many other operating systems
 and file formats.  It is neither a linear representation of time nor a true representation of
 UTC.[note 3] 
@@ -66,6 +66,79 @@ Related links: Dates and Times in Perl. See also manpages for the functions used
 from: edlin.org/
 
 
+Leap Seconds
+============
+In 1972 the leap-second system was introduced so that the broadcast UTC (Coordinated Universal Time)
+seconds could be made exactly equal to the standard SI [6] second, while still maintaining the UTC
+time of day and changes of UTC date synchronized with those of UT1 (the solar time standard that
+superseded GMT (Greenwich Mean Time)).[7]  By then the UTC clock was already 10 seconds behind TAI
+(International Atomic Time), which had been synchronized with UT1 in 1958 but had been counting
+true SI seconds since then.  After 1972, both clocks have been ticking in SI seconds, so the
+difference between their readouts at any time is 10 seconds plus the total number of leap seconds
+that have been applied to UTC (35 seconds in July 2012).
+
+
+Announced leap seconds to date
+==============================
+
+Year 	Jun 30 	Dec 31
+----------------------
+1972      +1      +1
+1973       0      +1
+1974       0      +1
+1975       0      +1
+1976       0      +1
+1977       0      +1
+1978       0      +1
+1979       0      +1
+1980       0       0
+1981      +1       0
+1982      +1       0
+1983      +1       0
+1984       0       0
+1985      +1       0
+1986       0       0
+1987       0      +1
+1988       0       0
+1989       0      +1
+1990       0      +1
+1991       0       0
+1992      +1       0
+1993      +1       0
+1994      +1       0
+1995       0      +1
+1996       0       0
+1997      +1       0
+1998       0      +1
+1999       0       0
+2000       0       0
+2001       0       0
+2002       0       0
+2003       0       0
+2004       0       0
+2005       0      +1
+2006       0       0
+2007       0       0
+2008   	   0      +1
+2009       0       0
+2010       0       0
+2011       0       0
+2012      +1       0
+2013       0 	<blank>
+
+Year 	Jun 30 	Dec 31
+----------------------
+Total    10      15
+         ----------
+             25
+
+Current TAI - UTC
+       35                 <=== Total leap seconds
+
+
+wikipedia.org/wiki/Leap_second#Insertion_of_leap_seconds
+
+
 Notes
 =====
 [note 1] Unix times are defined, but negative, before 1 January 1970.
@@ -118,6 +191,25 @@ American computer scientist who "helped shape the digital era."  He created the 
 language and, with long-time colleague Ken Thompson, the Unix operating system.
 http://en.wikipedia.org/wiki/Dennis_Ritchie
 
+[6] The International System of Units (SI)
+The 11th General Conference on Weights and Measures (1960) adopted the name Systeme International
+d'Unites (International System of Units, international abbreviation SI), for the recommended
+practical system of units of measurement.
+http://www.bipm.org/en/si/
+
+[7] "Leap Seconds". Time Service Department, United States Naval Observatory.
+Retrieved December 27, 2008.
+http://www.usno.navy.mil/USNO/time/master-clock/leap-seconds
+
+Coordinated Universal Time - Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Coordinated_Universal_Time
+
+Greenwich Mean Time
+From Wikipedia, the free encyclopedia
+Greenwich Mean Time (GMT) is a time system originally referring to mean solar time at the
+Royal Observatory in Greenwich, London, which later became adopted as a global time standard.
+http://en.wikipedia.org/wiki/Greenwich_Mean_Time
+
 Insertion of leap seconds
 Nice table of leap seconds inserted to date.
 http://en.wikipedia.org/wiki/Leap_second#Insertion_of_leap_seconds
@@ -129,6 +221,9 @@ A leap second is a one-second adjustment that is occasionally applied to Coordin
 was inserted on June 30, 2012 at 23:59:60 UTC.
 http://en.wikipedia.org/wiki/Leap_second
 
+Leap second history
+http://en.wikipedia.org/wiki/Leap_second#History
+
 Online Conversion - Unix time conversion
 Convert Unix timestamp to Readable Date/time (based on seconds since standard epoch of 1/1/1970).
 http://www.onlineconversion.com/unix_time.htm 
@@ -136,6 +231,10 @@ http://www.onlineconversion.com/unix_time.htm
 Perl tips
 Date/Time/Unixtime
 http://www.edlin.org/perl/
+
+Unit of time (second)
+SI brochure, Section 2.1.1.3
+http://www.bipm.org/en/si/si_brochure/chapter2/2-1/second.html
 
 Unix time
 From Wikipedia, the free encyclopedia
