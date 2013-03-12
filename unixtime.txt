@@ -12,6 +12,10 @@ UTC.[note 3]
 wikipedia.org/
 
 
+TODO: Add formula for calculation of unix time since midnight Coordinated Universal Time
+      January 1, 1970.
+
+
 Tue Mar 12 09:02:07 AKDT 2013
 =============================
 While working on the TiVo Cookie Datestamp issue where TiVo, both Topaz and Beryl, were sending
