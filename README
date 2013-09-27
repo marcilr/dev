@@ -11,6 +11,9 @@ breadcrumbs.txt
 characters.txt
   Cool character and escaping info.
 
+daemon.txt
+  Notes on writing daemons.
+
 pass.txt
   Keep passwords in home directory rather than interactively prompting for
   passwords.
