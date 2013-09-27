@@ -1,0 +1,10 @@
+characters.txt
+Created Wed Apr 14 16:16:01 AKDT 2010
+by Raymond E. Marcil
+
+
+Links
+=====
+JavaScript: Escaping Special Characters
+Good info here.
+http://www.the-art-of-web.com/javascript/escape/
