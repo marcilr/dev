@@ -26,6 +26,9 @@ epoch-converter.txt
 flash.txt
   Flash for multimedia
 
+floating-point.txt
+  Floating-Point Computation
+
 pass.txt
   Keep passwords in home directory rather than interactively prompting for
   passwords.
