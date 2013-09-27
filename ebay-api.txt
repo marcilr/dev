@@ -1,0 +1,53 @@
+ebay-api.txt
+Created Fri Jun  9 14:37:56 AKDT 2006
+by Raymond E. Marcil
+
+from googling:
+
+What is the eBay API?  	
+The Application Programming Interface (API) is the heart of the
+Developers Program.
+ 
+Normally, users buy and sell items using the eBay online interface,
+interacting with eBay directly. But with the eBay API, you communicate
+directly with the eBay database in XML format. By using the API, your
+application can provide a custom interface, functionality and
+specialized operations not otherwise afforded by the eBay interface.
+ 
+Using the API, you can create programs that:
+ 
+* Submit items for listing on eBay
+* Get the current list of eBay categories
+* View information about items listed on eBay
+* Get high bidder information for items you are selling
+* Retrieve lists of items a particular user is currently
+  selling through eBay
+* Retrieve lists of items a particular user has bid on
+* Display eBay listings on other sites
+* Leave feedback about other users at the conclusion of a
+  commerce transaction
+
+Because the API is not dependent on the eBay user interface, it
+0allows you to create stable, custom functionality and interfaces
+that best meet your business needs.
+ 
+For instance, you can:
+ * Automate the process of listing and monitoring auctions.
+There is no need to parse eBay pages that change frequently, breaking
+applications. A seller has access to more tools they can use to sell
+better and faster.
+* Extract user information from eBay and automate the end auction
+management process and delivery to eBay sellers and buyers.
+
+After joining the Developers Program, you will have access to the
+Developer Zone, a password-protected Web site for members only. The
+Developer Zone is the primary source for technical documentation and
+specifications, DTD files that define the XML input and output for the
+API, tools for creating and certifying your application and a full
+suite of additional technical resources.
+
+links:
+=====
+The ABCs of eBay's API
+By Ina & David Steiner
+  http://www.auctionbytes.com/cab/abu/y202/m09/abu0079/s02
