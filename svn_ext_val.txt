@@ -8,4 +8,6 @@
 #
 # List of repo hierarchical directories to checkout under docs/
 #
-./documentation      svn+ssh://home/data/svnroot/dev/docs/documentation/documentation
+# documentation/   Generating documentation
+#
+./documentation    svn+ssh://home/data/svnroot/dev/docs/documentation/documentation
