@@ -14,6 +14,9 @@ characters.txt
 daemon.txt
   Notes on writing daemons.
 
+ebay-api.txt
+  Googled information on the ebay api.
+
 pass.txt
   Keep passwords in home directory rather than interactively prompting for
   passwords.
