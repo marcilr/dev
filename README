@@ -29,6 +29,9 @@ flash.txt
 floating-point.txt
   Floating-Point Computation
 
+gimp-transparent.txt
+  Some googled notes on creating transparent images in gimp.
+
 pass.txt
   Keep passwords in home directory rather than interactively prompting for
   passwords.
