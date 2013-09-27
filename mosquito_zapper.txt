@@ -1,0 +1,11 @@
+mosquito_zapper.txt
+Created Tue May  4 09:56:23 AKDT 2010
+by Raymond E. Marcil
+
+
+Links
+=====
+Build your own photonic fence to zap mosquitoes midflight
+Backyard Star Wars
+Way cool article on building an electronic mosquito zapper.
+http://spectrum.ieee.org/consumer-electronics/gadgets/backyard-star-wars/1
