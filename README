@@ -8,8 +8,12 @@ Filelist
 breadcrumbs.txt
   Implementaton of breadcrumb trail in cfm files at AMI circa 2007.
 
+characters.txt
+  Cool character and escaping info.
+
 pass.txt
-  Keep passwords in home directory rather than interactively prompting for passwords.
+  Keep passwords in home directory rather than interactively prompting for
+  passwords.
 
 pcb.txt
   PCB (Printed Circuit Board) info.
