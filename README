@@ -17,6 +17,12 @@ daemon.txt
 ebay-api.txt
   Googled information on the ebay api.
 
+epoch-converter.txt
+  Epoch Converter
+  Epoch & Unix Timestamp Conversion Tools
+  Link from Jim Weller May 5, 2011
+  http://www.epochconverter.com/
+
 pass.txt
   Keep passwords in home directory rather than interactively prompting for
   passwords.
