@@ -1,0 +1,20 @@
+flash.txt
+Created Fri Apr 30 10:52:52 AKDT 2010
+by Raymond E. Marcil
+
+
+Flash for multimedia
+
+
+Links
+=====
+Introducing JITB - a Flash Player Built On the JVM
+Posted by Soulskill  on Friday August 20, @11:49AM
+from the stay-as-long-as-you-like dept. 
+http://developers.slashdot.org/story/10/08/20/1439207/Introducing-JITB-mdash-a-Flash-Player-Built-On-the-JVM
+
+Flash, Google, VP8, and the future of internet video
+Future of Flash for multimedia from Luke Weld (Apr 30, 2010).
+Great info on this link.
+http://x264dev.multimedia.cx/?p=292
+
