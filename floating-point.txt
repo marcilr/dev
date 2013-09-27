@@ -1,0 +1,35 @@
+floating-point.txt
+Created Mon May  3 08:34:51 AKDT 2010
+by Raymond E. Marcil
+
+
+Floating-Point Computation
+
+
+Books
+=====
+Floating-Point Computation by Pat Sterbenz, 353 pages
+by Pat Sterbenz
+ISBN-10: 0133224953
+ISBN-13: 978-0133224955
+Prentice Hall (May 1974)
+Ordered from amazon ($48 + 3.99 shipping, May 3, 2010)
+sun.com/
+
+What Every Computer Scientist Should Know About Floating-Point Arithmetic
+by David Goldberg
+March, 1991 issue of Computing Surveys. Copyright 1991
+Association for Computing Machinery, Inc.
+sun.com/
+
+
+Links
+=====
+What Every Programmer Should Know About Floating-Point Arithmetic
+http://developers.slashdot.org/story/10/05/02/1427214/What-Every-Programmer-Should-Know-About-Floating-Point-Arithmetic?art_pos=23
+
+What Every Computer Scientist Should Know About Floating-Point Arithmetic
+http://docs.sun.com/source/806-3568/ncg_goldberg.html
+
+The Floating-Point Guide
+http://floating-point-gui.de/
