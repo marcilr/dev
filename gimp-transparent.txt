@@ -1,0 +1,46 @@
+gimp-transparent.txt
+Created Wed Sep 20 11:43:37 AKDT 2006
+by Raymond E. Marcil
+
+Some notes on creating transparent images in gimp.
+
+from: http://aplawrence.com/Linux/crousegif.html
+
+The Gimp: Making Colors in a GIF Transparent
+By Crouse
+USA Linux Users Group
+Web Site: http://www.usalug.org
+
+More Articles
+
+Sometimes when working with an image you want to make a certain 
+color transparent. When working with a gif file this would make a 
+round circle look round on any color background. This is actually 
+very simple once you do it once. Finding the information for this 
+took me a while so I thought I would pass it on to anyone that was 
+interested.
+cartoon
+
+1. Open your image in the gimp.
+
+2. Right click the image and go to LAYERS then ADD ALPHA CHANNEL. 
+You won't notice anything happening, but don't be concerned. It 
+basically adds a transparent layer at the bottom of your image so 
+when we erase the colors.....it's shows the transparent layer. 
+Which of course would show whatever was under it on the screen.
+
+3. Right click on the image again and go to SELECT and then down 
+to BY COLOR. A window that is all black opens up. Don't change any 
+of the settings....just use the defaults for now.
+
+4. Now click on the color in the image you want to be transparent. 
+These colors will now show up outlined.
+
+5. Right click on the image again and go to EDIT and then down to 
+CLEAR. This should now erase the outlined color you just picked 
+from the image and the "transparent gimp checkerbox" should show 
+through. This is the Gimps way of showing you that section is now 
+transparent.
+
+6. Right click on the image and choose SAVE AS and make sure to 
+save as a GIF file if you want the transparency to work on the web.
