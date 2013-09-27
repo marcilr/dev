@@ -32,6 +32,9 @@ floating-point.txt
 gimp-transparent.txt
   Some googled notes on creating transparent images in gimp.
 
+mosquito_zapper.txt
+  Laser mosquito zapper.
+
 pass.txt
   Keep passwords in home directory rather than interactively prompting for
   passwords.
