@@ -1,0 +1,14 @@
+daemon.txt
+Created Wed Feb 24 11:06:46 AKST 2010
+by Raymond E. Marcil
+
+
+Notes on writing linux daemons.
+
+
+Links
+=====
+Linux Daemon Writing HOWTO
+Devin Watson v1.0, May 2004 
+http://www.netzmafia.de/skripten/unix/linux-daemon-howto.html
+
