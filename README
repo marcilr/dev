@@ -8,6 +8,15 @@ Filelist
 breadcrumbs.txt
   Implementaton of breadcrumb trail in cfm files at AMI circa 2007.
 
+build-essential.txt
+  To compile almost everything written C++ (includes g++)
+    sudo apt-get install build-essential
+
+  Or alternatively, if g++ is really all you want
+    sudo apt-get install g++
+
+  http://www.cplusplus.com/forum/unices/103710/
+
 characters.txt
   Cool character and escaping info.
 
