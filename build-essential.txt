@@ -1,0 +1,22 @@
+build-essential.txt
+Created Tue Nov 25 15:10:23 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+build-essential
+
+
+To compile almost everything written C++ (includes g++)
+  sudo apt-get install build-essential
+
+Or alternatively, if g++ is really all you want
+  sudo apt-get install g++
+
+cplusplus.com/
+
+
+Links
+=====
+How to install a C++ compiler in Debian GNU/Linux?
+http://www.cplusplus.com/forum/unices/103710/
+
