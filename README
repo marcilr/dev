@@ -87,3 +87,7 @@ uncanny-gap.txt
   enhancements improve the portrayal of the person.  In fact minor "impovements" make the
   realism much worse.  The realism curve drops off sharply. Within the last year the gap
   was bridged.
+
+version.txt
+  Implementation of project VERSION file.
+
