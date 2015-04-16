@@ -91,3 +91,6 @@ uncanny-gap.txt
 version.txt
   Implementation of project VERSION file.
 
+version-2.txt
+  Version number is composed by three digits: major.minor.release
+
