@@ -1,0 +1,29 @@
+project-docs.txt
+Created Wed Jul 12 08:26:52 AKDT 2006
+by Raymond E. Marcil
+
+
+For projects I'd like define and possible make templates
+for the standard set of project documents.
+
+
+Project Documents:
+=================
+* project proposal
+* goals/objectives
+* project plan
+* project design
+* estimated timeline
+* progress reports
+* completion report
+* final report
+
+Technical and supporting documentation (for projects creating
+technical deliverables).
+
+
+Links:
+=====
+JISC Project Management Guidelines
+  Descriptions of some of the core document deliverables.
+  http://www.jisc.ac.uk/proj_manguide5.html
