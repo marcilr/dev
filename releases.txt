@@ -1,0 +1,21 @@
+releases.txt
+Created Wed Oct 15 15:49:52 AKDT 2008
+by Raymond E. Marcil
+
+
+Re:My 1.1 opinion (Score:5, Funny)
+    * .0 is risky business.
+    * .1 is slightly more stable.
+    * .2 is pretty stable.
+    * .3 is really stable.
+    * .4 is rock solid.
+    * .5 is without a doubt really stable.
+    * .6 may contain new code for the next .0 release, so it's less stable.
+    * .7 probably contains new code for the next .0 release.
+    * .8 -- will it even start?
+    * .9 ships in a makeshift box made out of duct tape and old newspapers. 
+
+from: Do Software Versions Really Matter? 
+      http://ask.slashdot.org/askslashdot/08/10/15/2118240.shtml
+
+
