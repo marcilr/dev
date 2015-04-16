@@ -1,0 +1,79 @@
+version.txt
+Created Thu Dec  7 09:09:06 AKST 2006
+by Raymond E. Marcil
+
+
+Software packages typically have a version number associated
+with them. Working for Alaska State DNR LRIS GIS the 
+packages have a VERSION file in the base of every project with:
+
+
+major=1
+minor=1
+patch=3
+
+state=<p|a|b>              # If not specified assumed "f" for "final"
+                           # or "rc" for release candidate is assumed.
+                           #   p = pre-alpha
+                           #   a = alpha
+                           #   b = beta
+
+prerelease=<0,1,2,3,...>   # Numeric code specifying prerelease number.
+                           # Assume "0" if not specified.
+
+This file is read by the ant build.xml with:
+  <property file="VERSION"/>
+  <property name="version" value="${major}.${minor}.${patch}"/>
+
+This version property is then embedded in filenames and such.
+
+Thinking of adding a stage indicator. This would be an alpha character 
+appended to the end of the version string drawn from the set 
+development/prealpha, alpha, beta and final/release. Appended next
+would be a one-byte (i.e. having values in the range 0-255) pre-release 
+version, which is only used at stages prior to final. These
+chracters would include "a", "b", and "f". The "f" for final
+would not be appended to the string.
+
+
+Ant integration:
+===============
+Integrating the VERSION file with ant build.xml took a little 
+thought. Dropped Ant-Contrib into lib directory in root of
+project for use of "if" task to decide on use of "stage" if
+present.
+
+<!-- Pull in ant-contrib-1.03.jar resources -->
+<taskdef resource="net/sf/antcontrib/antcontrib.properties">
+  <classpath>
+    <pathelement location="${basedir}/lib/ant-contrib-1.0b3.jar"/>
+  </classpath>
+</taskdef>
+
+
+<target name="init">
+ ...
+    <property file="VERSION"/>
+
+    <!-- Check for stage property -->
+    <if>
+      <isset property="stage"/>
+      <then>
+        <property name="version" value="${major}.${minor}.${patch}${stage}"/>
+      </then>
+      <else>
+        <property name="version" value="${major}.${minor}.${patch}"/>
+      </else>
+    </if>
+
+    <property name="package.jar.filename" 
+              value="${ant.project.name}-${version}.jar" />
+  ...
+</init>
+
+
+Links:
+=====
+Software versioning
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Version
