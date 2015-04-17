@@ -1,0 +1,16 @@
+fender.txt
+Created Fri Mar  6 11:06:09 AKST 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Fat fender related links:
+http://www.3ders.org/articles/20120108-Filabot-turns-recycled-plastics-into-3D-printer-filament.html
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=melting%20number%202%20plastic
+http://en.wikipedia.org/wiki/Downcycling
+http://en.wikipedia.org/wiki/Plastic_recycling
+http://www.filabot.com/blogs/news
+http://www.soliforum.com/topic/3222/filabot-vs-filastruder/
+http://www.filastruder.com/
+http://www.filastruder.com/products/filastruder-kit
+http://www.instructables.com/id/Making-Blocks-out-of-HDPE-milk-jugs/
+http://sustainability.stackexchange.com/questions/225/can-i-recycle-plastics-at-home-by-melting-and-molding
