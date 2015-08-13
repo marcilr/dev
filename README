@@ -44,6 +44,15 @@ floating-point.txt
 gimp-transparent.txt
   Some googled notes on creating transparent images in gimp.
 
+good-code-comments-itself.txt
+  On several occasions a monk who we all think highly of, let me know that
+  good code comments itself.  If you choose the names of variables and
+  functions carefully, their function in the program becomes clear without
+  separate comments.
+  
+  Inline POD vs. EOF POD
+  http://www.perlmonks.org/?node=94969
+
 mosquito_zapper.txt
   Laser mosquito zapper.
 
