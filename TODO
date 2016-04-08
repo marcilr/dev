@@ -1,0 +1,264 @@
+TODO
+Created Thu Apr 26 08:58:05 AKDT 2007
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
++++ Wed Dec 30 15:50:57 AKST 2015 - Understand by scitools
+price: $995 for single license
+http://scitools.com/Static-Analysis-Tool/
+
+Thanks for requesting a trial!
+Check your inbox for your link to download Understand.
+Email support@scitools.com or call 435.627.2529 if you don't receive your link.
+
++++ Wed Apr 16 10:01:21 AKDT 2014 - Google Map api and access?
+
++++ Tue Feb  7 07:50:57 AKST 2012 - Need to break up 00DEV into separate repos.
+
++++ Aug 25, 2010 - Move/merge application relevant directories to separate
+directories under 00APPS.  This includes:
+  coldfusion 
+  tomcat
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Read/digest unicode artible:
+The Absolute Minimum Every Software Developer Absolutely,
+Positively Must Know About Unicode and Character Sets (No Excuses!)
+by Joel Spolsky
+Good stuff - need to absorb this one.
+http://www.joelonsoftware.com/articles/Unicode.html
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - The cvs-branches LaTeX document, written
+by James A. Crippen, in the Spectrum Wireless days doesn't build under debian
+etch. migrated from docs_new repo.  Perhaps needs a fix?
+
+
+Development
+===========
++++ Thu Apr 26 08:58:05 AKDT 2007 - Write document regard xlst usage.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Need better understanding of using
+TestNG, the replacement for JUnit, for better unit tests.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - I like to keep development documentation
+in plain text files.  Often I put an index to sections towards the header of
+the file.   One question is how to automated maintain the index to specific 
+lines?  The  location of lines changes when content is added of 
+removed.  A bit tricky.
+
+
+Debian
+======
++++ Thu Apr 26 08:58:05 AKDT 2007 - Encrypted filesystem based on login?
+Actually want to save the encrypted files to subverison or cvs and have them
+decrypted automatedly when accessed locally.
+
+Filesystem Encryption Tools for Linux
+-------------------------------------
+Crypto filesystems keep your data safe - even if someone 
+steals your computer.Linux offers a number of encrypted filesystem 
+options - each with a different approach to the encryption problem.
+Encrypted filesystems may be overkill for family photos or your 
+resume, but they make sense for network-accessible servers that 
+hold sensitive business documents, databases that hold sensitive 
+business documents, databases that contain credit-card information, 
+offline backups, and laptops.
+
+from: Debian Admin
+      http://www.debianadmin.com/feed/
+
+
+Windows
+=======
++++ Thu Apr 26 08:58:05 AKDT 2007 - Launch application based on filename?
+
+
+UltraEdit-32
+============
+
+
+LaTeX
+=====
++++ Thu Apr 26 08:58:05 AKDT 2007 - Need to produce some nice LaTeX doc on
+using div with validate(), isEmpty(), and showhide() function for validating
+forms on the client side browser. Work in progress.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - LaTeX document for online forms processing
+infrastructure.
+
+
+Javascript
+==========
++++ Thu Apr 26 08:58:05 AKDT 2007 - Would be nice to make a javascript library
+of funtions. Following a function from the AMI MOA Inspection Request project
+that set a form select back to the previously selected option 
+prior to form submission.
+
+mainMorning.cfm:54
+//
+// setDisciplineSelect()
+// Set the discipline form selected option.
+// INPUT:  id           The id of the discipline select.
+//         discipline   The discipline value to select.
+//                      Values 1-7.
+//
+function setDisciplineSelect(id,discipline){
+    //alert('setDisciplineSelect(' + id + ',' + discipline + ')');
+
+    // Get select element.
+    disciplineSelect = document.getElementById(id);
+    //alert('disciplineSelect.length: ' + disciplineSelect.length);
+
+    // Find displine select option selected previously.
+    for (var i = 0; i < disciplineSelect.length; i++){
+        value = disciplineSelect[i].value;
+        if (value == discipline){
+          
+            // Select prior discipline option.
+            disciplineSelect[i].selected = true;
+            //alert('Selected discipline: ' + value);
+            
+            break;
+        } // end if
+    } // end for
+} // end function
+
+mainMorning.cfm:415
+<!--- ========================= JavaScript ====================== --->
+<!--- ========================= JavaScript ====================== --->
+<script type="text/javascript">
+<!--
+    // Reselect discipline for consistent interface display.
+    <cfoutput>
+    setDisciplineSelect('disciplineSelect','#DISCIPLINE#');
+    </cfoutput>
+//-->
+</script>
+
+
+Miscellaneous
+=============
++++ Thu Apr 26 08:58:05 AKDT 2007 - Copy locally (wayback machine archive).
+Good form submission info.
+FORM submission and the ENTER key?
+http://web.archive.org/web/20060518010241/ppewww.ph.gla.ac.uk/~flavell/www/formquestion.html
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Created xslt to fix case of items in HMTL
+file. i.e. Any upper case to lower case.
+
+Including:
+bgcolor
+valign
+onchange
+nowrap
+colspan
+
+Wrap attribute values in double quotes.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Possible to pass variable names to
+function in javascript to save values in. Perhaps the solution is to save
+values in something like a hashmap. Needs research.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - log4j logging from javascript?
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Indicate horizontal position in emacs with
+"Wn" in footer. Similar to "Ln" for line position.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - For data conversion and input/output from
+MS SQL Server Jim Weller mentioned "DTS". Accessed from Enterprise Manager.
+Need to check out.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Jim Weller recommends spybot for windows
+maintenance and disabling various unwanted items. Googled and get:
+Spybot Search & Destroy
+http://www.spybot.info/en/
+http://www.safer-networking.org/en/index.html
+
+SpyBot Search & Destroy
+REVIEW DATE:  04.22.03
+PC Magazine
+http://www.pcmag.com/article2/0,1895,994109,00.asp
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Create rmtil command line utility.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Updated .emacs such that ctrl-h produces
+context sensitive headers. i.e. *.cfm gets header wrapped in comments.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Any way to get a right-click cleanup to
+remove *.~ files  in windows?
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Need XLST script to clean up html
+documents.  This includes:
+a. Convert uppercase tags to lowercase.
+b. Proper indentation.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Create new home subversion repo.  This
+requires analysis on how to access it securely over SSH.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Remove DOS carriage returns from documents
+using tr under Cygwin. It has issues with escaping '\r'.
+
++++ Thu Apr 26 08:58:05 AKDT 2007 - Need a windows shortcut to restart the
+coldfusion server.  Mentioned by Jim Weller.
+
+
+======================= Complete ===========================
+======================= Complete ===========================
+======================= Complete ===========================
+
+x Sep 16, 2010 - Class Dependency Analyzer dev/cda/ repo.
+Thu Feb 26 10:52:41 AKST 2009 - Program to graph java dependencies in source
+code hierarchy.
+
+x Aug 25, 2010 - Move/merge language relevant directories to separate
+directories under 00LANG.  This includes:
+  bash   Migrated to 00LAN/bash
+  css    Migrated to 00LANG/css 
+
+
+Coldfusion
+==========
+x JUnit unit testing would be good.  i.e. test coldfusion component
+functions and HttpUnit testing of cfm pages.  Perhaps use
+JavaLoader.cfc to actually load the junit api itself?
+
+"MXUnit is a unit testing framework for ColdFusion MX built upon the
+popular JUnit test framework. It is designed to get you up and 
+running quickly writing tests for your CFMX components."
+see: http://sourceforge.net/projects/mxunit/
+
+x Log4j logging from within cfscript?
+This just works with:
+  SESSION.bsdinspect.log.debug("Log output");
+
+Assume session variable is set.
+see: log4j.txt
+
+x Got ultraedit-32 installed on workstation. Now need to fix it up.
+With downloaded coldfusion61.txt syntax hightlighting file it loves
+to auto-capitralize HTML and coldfusion markup. Need to determine
+how to disable this.
+
+Form AMI MOA Inspection Request. 
+Logging from within cfscript.
+
+inspectors.cfc:536
+<cfscript>
+    if (inspectorDay neq "NULL"){
+        SESSION.bsdinspect.log.debug('inspectorDay neq "NULL"');
+        if (inspectorDay eq "0"){
+            inspectorDay="NULL";
+        }
+    }
+</cfscript>
+
+x coldfusion <cflog conditional="???" operators accepted?
+Is equal just "="?
+
+Done. See coldfusion/cfloop.txt.
+
+
+Links
+=====
+Validating your credit card number
+Looked cool.
+http://gregs.teacupinastorm.com/?p=98
