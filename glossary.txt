@@ -5,6 +5,8 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Glossary
 ========
+AGPL - ??? License
+
 cvcs - centralized version control system
 
 dvcs - distributed version control system
@@ -12,6 +14,10 @@ dvcs - distributed version control system
   o git       - http://git-scm.com/
   o mercurial - http://mercurial.selenic.com/
   o bazaar    - http://bazaar.canonical.com/en/
+
+GNU Free Documentation License - ???
+
+GPL - GNU General Public License
 
 vcs - Version Control System, Revision control, also known as version control
   and source control (and an aspect of software configuration management), is
