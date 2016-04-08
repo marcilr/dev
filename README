@@ -12,24 +12,28 @@ Filelist
 glossary.txt
   Glossary for development
 
+links.txt
+  Development related links
+
 logging
   Notes and example of logging from a c program.
 
 project_spec
-  Project specification document that details how to store projects in the cvs repository.
+  Project specification document that details how to store projects in the cvs
+  repository.
 
 project-docs.txt
   Notes on project documents.
 
 stubs.txt
-  This looks like the idea for depsrc a package I build to resolve build depencies in ant's 
-  build.xml
+  This looks like the idea for depsrc a package I build to resolve build
+  depencies in ant's  build.xml
 
 
 Links
 =====
-LWN.net is a reader-supported news site dedicated to producing the best coverage from 
-within the Linux and free software development communities.
+LWN.net is a reader-supported news site dedicated to producing the best
+coverage from  within the Linux and free software development communities.
 http://lwn.net/
 
 Red Hat's Secret Patent Deal and the Fate of JBoss Developers
@@ -79,4 +83,7 @@ DevGuy's CVS Information
 To get list of modules:
   cvs checkout CVSROOT/modules
 http://www.devguy.com/fp/cfgmgmt/cvs/
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under dev/
 
