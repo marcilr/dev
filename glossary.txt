@@ -1,0 +1,153 @@
+glossary.txt
+Created Thu Jul 28 07:53:20 AKDT 2011
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary
+========
+cvcs - centralized version control system
+
+dvcs - distributed version control system
+  The three primary distributed version control systems are:
+  o git       - http://git-scm.com/
+  o mercurial - http://mercurial.selenic.com/
+  o bazaar    - http://bazaar.canonical.com/en/
+
+vcs - Version Control System, Revision control, also known as version control
+  and source control (and an aspect of software configuration management), is
+  the management of changes to documents, computer programs, large web sites,
+  and other collections of information.
+
+  Version control systems include perforce and subversion.
+  http://en.wikipedia.org/wiki/Revision_control
+
+
+Glossary of Bazaar Version Control Terms - Sweet!
+========================================
+ancestor - A revision that came before another revision 
+ancestor,common,minimal - (undone) Unknown term. Fill me in!
+ancestor, intransitive - An ancestor revision that was a cherry-picked
+   revision.
+ancestor, nontransitive - See ancestor, intransitive
+ancestral parent - A fully merged branch.
+asynchronous - Operations not dependant upon ordering. 
+
+branch - a line of development. Also known as "an ordered series of revisions".
+branch, bound - a branch that sends revisions to another branch first.
+branch, shared - A branch that supports commits from multiple developers.
+branch, repository - (verify) A branch that depends upon a repository for RCS
+  storage.
+branch, standalone - A branch that is not part of a repository
+branches, diverged - Two related branches that have had different commits
+  since their last common revision are diverged. 
+
+centralized development - multiple committers in one branch
+centralized storage - saving multiple branches in one place.
+checkout - a synonym for BoundBranch.
+cherrypicking - Selecting specific revisions to apply to a working tree.
+commit - Instructions that the RCS should checkpoint the tree. 
+
+DAG - Directed Acyclic Graph. The graph of revisions where each revision is
+  connected to its parent revisions.
+
+delta - The change between two revisions.
+deprecation phase - Period during which an interface declared obsolete is being 
+  discouraged from use in the code by run time warnings. 
+
+inventory weave - The inventory for a branch, stored in weave format. 
+
+knit - The current storage format for Bazaar. 
+
+lockstep - Two or more operations that should either succeed or fail as one
+  pair.
+
+lockstep development - Working on a shared branch, so that no one can commit
+  unless they are up-to-date. 
+
+merge - determining the outstanding revisions in one branch and applying them
+  to another.
+
+merge,crisscross - (undone) A failed type of merge caused by two branches
+  merging each other at the same time. 
+
+nested trees - One directory tree made up of one or more branches.
+nit - mispelling of Knit.
+
+nuclear launch codes - Strawman example of data that must be excised from a
+  branch.
+
+nuclear waste - Strawman example of unuseful bulk data that poisons a branch. 
+
+repository - A library of revisions for branches.
+
+repository, shared - A repository that is used by multiple branches, so that
+  common history of those branches is only stored once, thus reducing the disk
+  space needed to store multiple branches.
+
+revert - returning a working tree to the most recent revision.
+
+revision - A snapshot and associated data of a working tree that is created
+  during commit.
+
+revision, ancestor - See ancestor
+revision, ghost - A revision that a branch knows about but does not have.
+
+revision, dominant - (undone) A revision in a branch that was the result of a
+  commit and not a merge.
+
+revision, dominant, common - (undone) A revision that is common to two
+  branches that was the result of a commit that happened prior to divergance.
+
+revision, parent - The revision that comes immediately prior to this revision. 
+
+smart server - a program that brokers operations for intelligent bzr specific
+  interactions on behalf of a client.  Contrasts with dumb transports
+  (e.g. http, sftp, the filesystem) currently supported by bzr.
+
+smart server, dedicated -(undone) a smart server that is requires some sort of
+  communication pipeline (accepts network connections, sockets and other
+  posisbilities) and is intended to be run continiously.
+
+smart server, spawned - (undone) a smart server that is run over a local or
+  remote shell, via methods such as ssh.
+
+storage layer - (undone) The logically discrete portion of bazaar-ng code that
+  is responsible for pulling and storing bzr related information.
+
+storage layer, ancestral The part of the storage layer that is concerned with
+  retrieving and storing history.
+
+storage layer, configuration - (undone)(under contention) The part of the
+  storage layer that is concerned with the retrieval and storage of user and
+  branch configuration data.
+
+store - An object that associates a binary blob with a unique identifier.
+store, text - See store
+
+store, weave - (undone) A store that uses two identifiers instead of one: a
+  file identifier, and a revision identifier. It stores the data in a set of
+  weaves.  The file identifier is used to select the weave, while the revision
+  identifier speficies the revision within the weave.
+
+synchronous - a method for performing multiple operations one at a time.  This
+  method is required for performing a series of actions that are each
+  dependant upon the results of previous actions. 
+
+tag - A descriptive word used as a nickname for a revision.
+testament - A canonicalized, abbreviated revision description used for signing. 
+
+weave - (undone) A format for recording the differences in files between
+  revisions by recording which revisions in which a line in the weave is
+  present.
+
+weavedelta - An early term for knit. See knit
+weavediff - (undone) An append-only format whose logical structure is a weave.
+working tree - A version controlled directory with files you can hack on. 
+
+canonical.com/
+
+Links
+=====
+Glossary of Bazaar Version Control Terms
+Some damn fine terms here.
+http://wiki.bazaar.canonical.com/BzrGlossary/
