@@ -1,0 +1,96 @@
+links.txt
+Created Thu Apr 28 16:46:13 AKDT 2011
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Development related links
+
+
+Links
+=====
+Bazaar
+http://bazaar.canonical.com/en/
+
+Canonical Ltd.
+From Wikipedia, the free encyclopedia
+Makers of Bazaar
+http://en.wikipedia.org/wiki/Canonical_Ltd.
+
+Darcs
+Distributed. Interactive. Smart.
+http://darcs.net/
+
+Docker
+Build, Ship and Run Any App, Anywhere
+Docker - An open platform for distributed applications
+for developers and sysadmins.
+https://www.docker.com/
+
+Distributed revision control
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Distributed_revision_control
+
+Get lat/long of point.
+http://itouchmap.com/latlong.html
+
+Git
+the fast version control system
+http://git-scm.com/
+
+GNU Bazaar
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/GNU_Bazaar
+
+Here's an interesting lecture on DVCS; pr
+epare to be berated for using a centralized system:
+http://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+
+How to move a subversion repository
+Blog : December 2006
+Ben Finney 8:30 PM on 30 Dec 2006
+Obligatory plug for distributed version control systems.  If you would move
+your work into something like Bazaar or Darcs, you could work in a
+central-repository mode as much as you like, with the added benefit that
+branching and merging, and moving from place to place, would be trivially easy
+when you wanted to do them. 
+  http://bazaar-vcs.org/ 
+  http://abridgegame.org/darcs/
+http://nedbatchelder.com/blog/200612/how_to_move_a_subversion_repository.html
+
+Intro to Distributed Version Control (Illustrated)
+http://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+
+Mercurial
+http://mercurial.selenic.com/wiki/
+
+Mercurial: The Definitive Guide
+by Bryan O'Sullivan
+http://hgbook.red-bean.com/index.html
+
+Mercurial is a distributed version control system.  Mercurial is
+dedicated to speed and efficiency with a sane user interface.
+It is written in Python.
+http://mercurial.selenic.com/
+
+Revision control, also known as version control and source control (and an 
+aspect of software configuration management), is the management of changes 
+to documents, computer programs, large web sites, and other collections of 
+information.
+http://en.wikipedia.org/wiki/Revision_control
+
+TARTS
+Wireless Sensors for Makers
+https://www.tartssensors.com/?gclid=CLiQoqWy5MsCFQdqfgodW3cBIw
+
+The Cathedral and the Bazaar
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+http://www.catb.org/~esr/writings/cathedral-bazaar/
+
+Understanding Darcs
+http://en.wikibooks.org/wiki/Understanding_darcs
+
+Your first Android Application
+by Computothought
+http://www.instructables.com/id/Your-first-Android-Application/
+
