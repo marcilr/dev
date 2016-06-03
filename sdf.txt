@@ -1,0 +1,113 @@
+sdf.txt
+Created Sun Sep 17 11:13:28 AKDT 2006
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SDF (Simple Document Format)
+
+
+Thu Sep 28 08:56:55 AKDT 2006
+=============================
+Queried Jason Guild about the easy document format he
+mentioned a while back. Confirmed that it was SDF.
+
+
+What is SDF?
+===========
+SDF (Simple Document Format) is a freely available document development
+system which generates high quality outputs in a variety of formats from a
+single source.  The output formats supported include PostScript, HTML, POD,
+plain text, man pages, LaTeX, SGML, Windows help, MIF and RTF.  If the idea of
+specifying documents in a logical manner via a simple markup language sounds
+appealing, SDF may be useful to you.
+
+SDF documents are simple to create and maintain, minimising the time spent on
+documentation.  In particular, SDF directly supports the creation and
+maintenance of large, on-line documentation systems (including intranets) via
+centralised hypertext management and rule-based hypertext generation.
+
+Introducing SDF
+http://cpansearch.perl.org/src/IANC/sdf-2.001/doc/user/in_intro.html
+
+
+SDF is useful for?
+==================
+As well as normal documents, SDF is useful for:
+
+o user manuals (paper-based and online)
+o online document catalogs
+o Perl module documentation
+o Delphi component documentation
+o source code listings (pretty printing most languages).
+
+SDF is also good for literate programming, i.e. documentation can be embedded
+in the comments of most programming languages and can be selectively
+extracted.  The embedded documentation can be in any markup language you like,
+although there are advantages to using SDF's markup language.
+
+Introducing SDF
+http://search.cpan.org/src/IANC/sdf-2.001/doc/user/in_intro.html
+
+
+Requirements
+============
+SDF has been completely developed in Perl, a popular and highly portable
+scripting language.  Perl 5.004 or later is recommended, although SDF may run
+on earlier versions of Perl 5.
+
+To generate PostScript, SDF requires one of the following:
+
+o the freely available pod2ps program
+o the freely available SGML-Tools and LaTeX packages
+o FrameMaker 5.x or later
+o another word processor which can import RTF.
+
+Earlier versions of FrameMaker will generally work, but I don't explicitly
+support them.
+
+To generate Windows help, a help compiler (e.g. hcp.exe) is required.
+
+Introducing SDF
+http://cpansearch.perl.org/src/IANC/sdf-2.001/doc/user/in_intro.html
+
+
+Debian sdf package
+==================
+$ apt-cache search sdf
+common-lisp-controller - This is a Common Lisp source and compiler manager
+cl-asdf - Another System Definition Facility
+cl-cclan - Comprehensive Common Lisp Archive Network
+sdf - Simple Document Parser
+sdf-doc - Documentation and examples for the Simple Document Parser
+xt-sdf2 - Programmers tools for manipulating SDF2 formalism
+xt-sdf2-dev - Development headers and Libraries for xt-sdf2
+
+install
+=======
+apt-get install sdf
+apt-get install sdf-doc
+
+
+Links
+=====
+Introducing SDF
+http://cpansearch.perl.org/src/IANC/sdf-2.001/doc/user/in_intro.html
+
+SDF (Simple Document Format)
+website: http://www.mincom.com/mtr/sdf/ 
+  (not up Thu Sep 28 08:58:41 AKDT 2006 REM)
+
+SDF User Guide
+  http://search.cpan.org/src/IANC/sdf-2.001/doc/user/ug_sdf.html
+
+The SDF Document Development System
+  http://search.cpan.org/src/IANC/sdf-2.001/doc/paper/sdfintro.html
+
+SDF Quick Reference
+  http://search.cpan.org/src/IANC/sdf-2.001/doc/quickref/qr_sdf.html
+
+SDF Reference
+  http://search.cpan.org/src/IANC/sdf-2.001/doc/ref/re_sdf.html
+
+SDF Guru Guide
+  http://search.cpan.org/src/IANC/sdf-2.001/doc/guru/gg_sdf.html
