@@ -4,7 +4,8 @@ by Raymond E. Marcil
 
 
 Swish-e
-=======
+Simple Web Indexing System for Humans - Enhanced 
+
 Swish-e is a fast, flexible, and free open source system for indexing collections of Web 
 pages or other files. Swish-e is ideally suited for collections of a million documents or 
 smaller. Using the GNOME libxml2 parser and a collection of filters, Swish-e can index 
