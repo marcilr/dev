@@ -1,0 +1,17 @@
+README
+Created Fri Sep 27 08:14:35 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Generating documentation
+
+
+Filelist
+========
+ms_word.txt 
+  Word doc notes
+
+pod.txt
+  Plain Old Documentation, abbreviated pod, is a simple markup language used
+  to document the Perl programming language.
+
