@@ -1,0 +1,29 @@
+pod.txt
+Created Tue Jul 15 09:20:11 AKDT 2008
+by Raymond E. Marcil
+
+
+
+Plain Old Documentation, abbreviated pod, is a simple markup language used to document the 
+Perl programming language.
+
+pod is designed to be a simple, clean language with just enough syntax to be useful. It 
+purposefully does not include mechanisms for fonts, images, colors or tables; instead it 
+attempts to be just large enough to be useful. Some of its goals are:
+
+    * Easy to parse
+    * Easy to convert to other languages, such as HTML or TeX
+    * Easy to incorporate sample code
+    * Easy to read without a pod formatter (i.e. in its source-code form)
+    * Easy to write in--otherwise programmers won't write the documentation!
+
+from: wikipedia.org/
+
+
+
+Links
+=====
+Plain Old Documentation
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Plain_Old_Documentation
+
