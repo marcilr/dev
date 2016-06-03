@@ -1,0 +1,28 @@
+#
+# svn_ext_val.txt
+# Created Fri Sep 27 08:12:33 AKDT 2013
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under documentation/
+#
+# pdf/       Portable Document Format files
+#
+# sdf/       Simple Document Format
+#
+# swish-e/   Swish-e is a fast, flexible, and free open source system for
+#            indexing collections of Web pages or other files.  Swish-e is
+#            ideally suited for collections of a million documents or smaller.
+#            Using the GNOME libxml2 parser and a collection of filters,
+#            Swish-e can index plain text, e-mail, PDF, HTML, XML, Microsoft
+#            Word/PowerPoint/Excel and just about any file that can be 
+#            converted to XML or HTML text.  Swish-e is also often used to
+#            supplement databases like the MySQL DBMS for very fast full-text
+#            searching.
+#            http://swish-e.org/
+#
+./pdf        svn+ssh://home/data/svnroot/dev/docs/documentation/pdf/pdf
+./sdf        svn+ssh://home/data/svnroot/dev/docs/documentation/sdf/sdf
+./swish-e    svn+ssh://home/data/svnroot/dev/docs/documentation/swish-e/swish-e
