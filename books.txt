@@ -1,0 +1,7 @@
+books.txt
+Created Fri Jun  3 09:34:20 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Development related books
+
