@@ -13,5 +13,6 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
-ssh://git@github.com/marcilr/git-dev-docs                 docs
-ssh://git@github.com/marcilr/git-dev-docs-documentation   docs/documentation
+ssh://git@github.com/marcilr/git-dev-docs                     docs
+ssh://git@github.com/marcilr/git-dev-docs-documentation       docs/documentation
+ssh://git@github.com/marcilr/git-dev-docs-documentation-pdf   docs/documentation/pdf
