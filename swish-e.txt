@@ -1,0 +1,61 @@
+swish-e.txt
+Created Fri Jul 25 08:19:22 AKDT 2008
+by Raymond E. Marcil
+
+
+Swish-e
+=======
+Swish-e is a fast, flexible, and free open source system for indexing collections of Web 
+pages or other files. Swish-e is ideally suited for collections of a million documents or 
+smaller. Using the GNOME libxml2 parser and a collection of filters, Swish-e can index 
+plain text, e-mail, PDF, HTML, XML, Microsoft Word/PowerPoint/Excel and just about any file 
+that can be converted to XML or HTML text. Swish-e is also often used to supplement 
+databases like the MySQL DBMS for very fast full-text searching.
+
+swish-e - Simple Web Indexing System for Humans - Enhanced
+marcilr@boothite:~/svn/dev/documentation$ swish-e -V
+SWISH-E 2.4.3
+
+
+Build Index
+===========
+When indexing it may be advisable to index to a temporary file, and then after indexing has successfully 
+completed rename the file to the final location. This is especially important when replacing an index that is 
+currently in use.
+
+swish-e -c swish.config -f index.tmp
+[check return code from swish or look for err: output]
+mv index.tmp index.swish-e
+
+from: 
+
+
+Search
+======
+Searching a Swish-e index involves passing command line arguments to it that specify the 
+index file to use, and the query (or search words) to locate in the index. Swish-e returns a 
+list of file names (or URLs) that contain the matched search words. 
+
+  swish-e -w foo bar              # Search for files with foo and bar.
+  swish-e -w bar foo
+  swish-e -w foo AND bar
+
+  swish-e -f ~/index.swish foo    # Specify index file.
+
+
+Filelist
+========
+swish.conf
+  Swish-e configuration googled at
+  http://www.bluereef.net/support/extensions/cgi/swishe/config.html
+
+
+Links:
+=====
+Swish-e
+Simple Web Indexing System for Humans - Enhanced
+http://swish-e.org/
+
+How to Index Anything by Josh Rabinowitz
+http://joshr.com/src/docs/HowToIndexAnything.pdf
+
