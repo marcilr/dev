@@ -1,0 +1,35 @@
+ms_word.txt
+Created Wed Jul 23 09:56:27 AKDT 2008
+by Raymond E. Marcil
+
+
+Word doc info.
+
+wv - Programs for accessing Microsoft Word documents
+
+full-text indexing of pdf, rtf, txt, html, pdf, doc
+
+
+full-text indexing of Word documents
+====================================
+1) Install wv for full-text indexing of Word documents:
+sudo apt-get install wv
+
+
+Plone
+=====
+* Full-text indexing of Word and PDF documents
+from: wikipedia.org/
+
+Plone site prior to the availability of the third-party command-line converters (pdftotext, wv).
+
+
+Links
+=====
+Plone (software)
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Plone_(software)
+
+Enable full-text indexing of Word documents and PDFs in Plone 3.0 (GNU/Linux) 
+http://plone.org/documentation/how-to/enable-full-text-indexing-\
+of-word-documents-and-pdfs-in-plone-3-0-gnu-linux
