@@ -14,4 +14,4 @@
 #
 
 ssh://git@github.com/marcilr/git-dev-docs                 docs
-ssh://git@github.com/marcilr/git-dev-docs-documentation   docs-documentation
+ssh://git@github.com/marcilr/git-dev-docs-documentation   docs/documentation
