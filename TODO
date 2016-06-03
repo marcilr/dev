@@ -1,0 +1,20 @@
+TODO
+Created Wed Jul 23 07:54:23 AKDT 2008
+by Raymond E. Marcil
+
+
++++ Manage collection of pdf/doc/odf/rtf/txt files?
++++ Need to identify the best text formatter. 
+text + formatting commands > text editor > text formatter > finished document.
+
+LaTeX should be better yet.
+
++++ Best way to target multiple output formats including doc, pdf, and html?
+
+
+Links
+=====
+LaTeX
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/LaTeX
+
