@@ -68,10 +68,8 @@ ssh://htpc/data/git/dev/lang/snmp/snmpwalk                        lang/snmp/snmp
 #
 # https://en.wikipedia.org/wiki/XML#cite_note-2
 #
-ssh://htpc/data/git/dev/lang/xml                                   lang/xml
-ssh://htpc/data/git/dev/lang/xml/docs                              lang/xml/docs
-ssh://htpc/data/git/dev/lang/xml/syntax                            lang/xml/syntax
-ssh://htpc/data/git/dev/lang/xml/xmlstarlet                        lang/xml/xmlstarlet
-ssh://htpc/data/git/dev/lang/xml/xmlstarlet/syntax                 lang/xml/xmlstarlet/syntax
-
-
+#ssh://htpc/data/git/dev/lang/xml                                   lang/xml
+#ssh://htpc/data/git/dev/lang/xml/docs                              lang/xml/docs
+#ssh://htpc/data/git/dev/lang/xml/syntax                            lang/xml/syntax
+#ssh://htpc/data/git/dev/lang/xml/xmlstarlet                        lang/xml/xmlstarlet
+#ssh://htpc/data/git/dev/lang/xml/xmlstarlet/syntax                 lang/xml/xmlstarlet/syntax
