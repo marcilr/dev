@@ -41,6 +41,7 @@ ssh://git@github.com/marcilr/git-dev-docs-documentation-swish-e   docs/documenta
 #
 # =====================================================================
 ssh://git@github.com/marcilr/git-dev-lang                         lang
+ssh://git@github.com/marcilr/git-dev-lang-markup                  lang/markup
 ssh://git@github.com/marcilr/git-dev-lang-snmp                    lang/snmp
 ssh://git@github.com/marcilr/git-dev-lang-snmp-00INSTALL          lang/snmp/00INSTALL
 ssh://git@github.com/marcilr/git-dev-lang-snmp-snmpwalk           lang/snmp/snmpwalk
