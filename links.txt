@@ -90,6 +90,12 @@ From Wikipedia, the free encyclopedia
 http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 http://www.catb.org/~esr/writings/cathedral-bazaar/
 
+The Linux Programmer's Guide
+Sven Goldt, Sven van der Meer, Scott Burkett, Matt Welsh
+Version 0.4 
+March 1995
+http://www.tldp.org/LDP/lpg/
+
 Understanding Darcs
 http://en.wikibooks.org/wiki/Understanding_darcs
 
