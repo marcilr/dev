@@ -75,3 +75,16 @@ ssh://git@github.com/marcilr/git-lang-xml-syntax                    lang/xml/syn
 ssh://git@github.com/marcilr/git-lang-xml-xmlstarlet                lang/xml/xmlstarlet
 ssh://git@github.com/marcilr/git-lang-xml-xmlstarlet-syntax         lang/xml/xmlstarlet/syntax
 
+
+# =====================================================================
+#
+# Libraries
+#
+# =====================================================================
+
+#
+# strftime - format date and time
+#            Great items such as j for the day of the year as a decimal
+#            number (range 001 to 366).
+#
+ssh://git@github.com/marcilr/git-dev-lib                            lib
