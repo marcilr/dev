@@ -40,7 +40,7 @@ ssh://git@github.com/marcilr/dev-docs-documentation-swish-e   docs/documentation
 #
 # =====================================================================
 ssh://git@github.com/marcilr/dev-editors                      editors
-ssh://git@github.com/marcilr/dev-editors-sublime              editors/sublime
+ssh://git@github.com/marcilr/sublime                          editors/sublime
 
 
 # =====================================================================
