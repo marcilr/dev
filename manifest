@@ -34,6 +34,14 @@ ssh://git@github.com/marcilr/dev-docs-documentation-pdf       docs/documentation
 ssh://git@github.com/marcilr/dev-docs-documentation-sdf       docs/documentation/sdf
 ssh://git@github.com/marcilr/dev-docs-documentation-swish-e   docs/documentation/swish-e
 
+# =====================================================================
+#
+# Editors
+#
+# =====================================================================
+ssh://git@github.com/marcilr/dev-editors                      editors
+ssh://git@github.com/marcilr/dev-editors-sublime              editors/sublime
+
 
 # =====================================================================
 #
