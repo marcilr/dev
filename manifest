@@ -21,19 +21,6 @@
 # =====================================================================
 ssh://git@github.com/marcilr/compilers                        compilers
 
-
-# =====================================================================
-#
-# Documentation
-#
-# =====================================================================
-ssh://git@github.com/marcilr/dev-docs                         docs
-ssh://git@github.com/marcilr/dev-docs-books                   docs/books
-ssh://git@github.com/marcilr/dev-docs-documentation           docs/documentation
-ssh://git@github.com/marcilr/dev-docs-documentation-pdf       docs/documentation/pdf
-ssh://git@github.com/marcilr/dev-docs-documentation-sdf       docs/documentation/sdf
-ssh://git@github.com/marcilr/dev-docs-documentation-swish-e   docs/documentation/swish-e
-
 # =====================================================================
 #
 # Editors
@@ -49,10 +36,8 @@ ssh://git@github.com/marcilr/sublime                          editors/sublime
 #
 # =====================================================================
 ssh://git@github.com/marcilr/lang                             lang
-ssh://git@github.com/marcilr/lang-markup                      lang/markup
-ssh://git@github.com/marcilr/lang-snmp                        lang/snmp
-ssh://git@github.com/marcilr/lang-snmp-00INSTALL              lang/snmp/00INSTALL
-ssh://git@github.com/marcilr/lang-snmp-snmpwalk               lang/snmp/snmpwalk
+ssh://git@github.com/marcilr/markup                           lang/markup
+ssh://git@github.com/marcilr/snmp                             lang/snmp
 
 
 # =====================================================================
@@ -72,27 +57,9 @@ ssh://git@github.com/marcilr/lib                              lib
 #
 # Extensible Markup Language (XML) is a markup language that defines a set of
 # rules for encoding documents in a format that is both human-readable and
-# machine-readable.  It is defined in the XML 1.0 Specification[2] produced by
-# the W3C, and several other related specifications,[3] all free open
-# standards.[4]
+# machine-readable.  It is defined in the XML 1.0 Specification produced by
+# the W3C, and several other related specifications, all free open
+# standards.
+# --https://en.wikipedia.org/wiki/XML
 #
-# [1] "XML Media Types, RFC 7303". Internet Engineering Task Force. July 2014.
-#     http://www.rfc-editor.org/rfc/rfc7303.txt
-#
-# [2] "XML 1.0 Specification". World Wide Web Consortium. Retrieved 2010-08-22.
-#     http://www.w3.org/TR/REC-xml
-#
-# [3] "XML and Semantic Web W3C Standards Timeline" (PDF). 2012-02-04.
-#     http://www.dblab.ntua.gr/~bikakis/XML%20and%20Semantic%20Web%\
-#     20W3C%20Standards%20Timeline-History.pdf
-#
-# [4] "W3C DOCUMENT LICENSE"
-#     http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
-#
-# https://en.wikipedia.org/wiki/XML#cite_note-2
-#
-ssh://git@github.com/marcilr/lang-xml                         lang/xml
-ssh://git@github.com/marcilr/lang-xml-docs                    lang/xml/docs
-ssh://git@github.com/marcilr/lang-xml-syntax                  lang/xml/syntax
-ssh://git@github.com/marcilr/lang-xml-xmlstarlet              lang/xml/xmlstarlet
-ssh://git@github.com/marcilr/lang-xml-xmlstarlet-syntax       lang/xml/xmlstarlet/syntax
+ssh://git@github.com/marcilr/xml                            lang/xml
