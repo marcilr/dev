@@ -1,0 +1,27 @@
+version.txt
+Created Tue Mar 19 09:54:55 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Version number is composed by three digits: major.minor.release
+
+
+Major digit will change when major modifications are made.  Read it as a "new very important
+  functions available" flag. When this digit change, all minor digit will be zeroed.
+
+Minor digit will change when minor modifications or enhancements are made.  Maybe new useful
+  functions are added but not so important on the usage of the application.  When this digit
+  change, all minor digit will be zeroed.
+
+Release digit will change when only bug fixes are applied.
+
+So, if bug fixes are applied but also new features are added, the Major or Minor digits will
+prevail on Release digit.
+
+uderzo.it/
+
+
+Links
+=====
+SpaceSniffer release notes
+http://www.uderzo.it/main_products/space_sniffer/release_notes.html

@@ -1,0 +1,34 @@
+epoch-converter.txt
+Created Thu May  5 14:48:16 AKDT 2011
+by Raymond E. Marcil
+
+
+The Unix epoch (or Unix time or POSIX time or Unix timestamp) is the number of 
+seconds that have elapsed since January 1, 1970 (midnight UTC/GMT), not counting 
+leap seconds (in ISO 8601: 1970-01-01T00:00:00Z).  Literally speaking the epoch 
+is Unix time 0 (midnight 1/1/1970), but 'epoch' is often used as a synonym for 
+'Unix time'.  Many Unix systems store epoch dates as a signed 32-bit integer, 
+which might cause problems on January 19, 2038 (known as the Year 2038 problem 
+or Y2038). 
+
+
+
+Human readable time    Seconds
+---------------------------------------
+1 minute	       60 seconds
+1 hour	               3600 seconds
+1 day	               86400 seconds
+1 week	               604800 seconds
+1 month (30.44 days)   2629743 seconds
+1 year (365.24 days)   31556926 seconds
+
+epochconverter.com/
+
+
+
+Links
+=====
+Epoch Converter
+Epoch & Unix Timestamp Conversion Tools
+Link from Jim Weller May 5, 2011
+http://www.epochconverter.com/

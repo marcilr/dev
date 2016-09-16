@@ -1,0 +1,70 @@
+one-der.txt
+Created Thu Nov 19 15:57:45 AKST 2009
+by Raymond E. Marcil
+
+
+Al Williams straddles the hardware and software line and has authored books
+ranging from MFC Black Book to Build Your Own Printed Circuit Board.  He can be
+contacted at al.williams@awce.com.
+
+
+The One Instruction Wonder
+==========================
+Very cool article on building a one instruction computer.  Great CS info.
+
+
+Books
+=====
+Build Your Own Printed Circuit Board (Paperback)
+by Al Willaims
+"Printed circuit boards are at the heart of just about every electronic device
+made today - PCs, cell phones, MP3 players, PDAs, telephones, stereos, TVs,
+remote controls, cameras, your car, and even small appliances.  The reason
+these items have come down in price over the years is because of printed
+circuit boards. Whereas before you had to pay someone to physically connect
+(and repair!) wires for each component (a time-consuming and thus expensive
+prospect), now an error-proof, custom "PCB" is installed instead.  Hobbyists
+and designers can now start their projects with a printed circuit board,
+rather than using it as a last step (and contracting it out to someone else,
+as was previously the norm).  It not only makes a more professional-looking
+prototype, but also makes it easy to mass-produce.  And the techniques are the
+same for the hobbyist working on a single project. This will be by far the
+most modern book on the market, with the latest and greatest techniques for 
+producing intricate PCB's at a fraction of the cost of sending them out."
+$19.77 (amazon, Nov 19, 2009)
+
+
+The Circuit Designer's Companion, Second Edition
+(EDN Series for Design Engineers) (Paperback)
+Tim Williams' Circuit Designer's Companion provides a unique masterclass in
+practical electronic design that draws on his considerable experience as a
+consultant and design engineer.  As well as introducing key areas of design
+with insider's knowledge, Tim focuses on the art of designing circuits so that
+every production model will perform its specified function - and no other
+unwanted function - reliably over its lifetime.
+
+The combination of design alchemy and awareness of commercial and
+manufacturing factors makes this an essential companion for the professional
+electronics designer.  Topics covered include analog and digital circuits,
+component types, power supplies and printed circuit board design.
+$57.76 (amazon, Nov 19, 2009)
+
+
+The Art of Electronics (Hardcover)
+Paul Horowitz and Winfield Hill
+"Full of clever circuits and sharp insights, but with a surprising minimum of 
+mathematics... The depth is genuine, as is the richness of examples, data and
+apt tricks."
+Scientific American
+$75.07 (amazon, Nov 19, 2009)
+
+
+
+Links
+=====
+The One Instruction Wonder
+November 16, 2009
+http://www.ddj.com/embedded/221800122?cid=RSSfeed_DDJ_All
+
+Building a 32-Bit One-Instruction Computer
+http://hardware.slashdot.org/story/09/11/19/1845205/Building-a-32-Bit-One-Instruction-Computer?art_pos=7

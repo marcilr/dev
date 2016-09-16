@@ -1,0 +1,14 @@
+speech-recognition.txt
+Created Mon May  3 15:07:11 AKDT 2010
+by Raymond E. Marcil
+
+
+Speach recognition is an area ready for a breakthrough.
+
+
+
+Links
+=====
+Rest In Peas - the Death of Speech Recognition
+http://tech.slashdot.org/story/10/05/03/2031240/Rest-In-Peas-mdash-the-Death-of-Speech-Recognition?art_pos=4
+

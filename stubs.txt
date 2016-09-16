@@ -1,0 +1,19 @@
+stubs.txt
+Created Mon Feb 27 16:48:30 AKST 2006
+by Raymond E. Marcil
+
+Surfing freshmeat.net I spotted:
+
+STUBS and Franki/Earlgrey Linux 0.6.7pre1/0.9.0pre2 (STUBS Configurations)
+by William Towle - Mon, Feb 27th 2006 17:03 PDT 	
+
+About: Franki and Earlgrey Linux are small but usable Linux distributions designed to 
+demonstrate the full extent of STUBS, the Toolchain and Utility Build Suite. STUBS is a set 
+of configuration files and scripts designed to build (and optionally employ) toolchains
+from just a list of desired packages, and has scripts capable of downloading sources as 
+necessary beforehand. It is designed to both bootstrap and work within the Franki Linux 
+environment, requiring just kernel headers and working make/gcc/binutils to do so.
+
+Changes: This is an interim Configurations release that updates a number of package versions 
+and obsoleted URLs. Package updates include e3, Perl, rsyslog, rzip, and tftp-hpa; additions 
+include cpuid, dmidecode, and muhttpd. 

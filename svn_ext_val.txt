@@ -1,0 +1,13 @@
+#
+# svn_ext_val.txt
+# Created Fri Sep 27 08:12:33 AKDT 2013
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under docs/
+#
+# documentation/   Generating documentation
+#
+./documentation    svn+ssh://home/data/svnroot/dev/docs/documentation/documentation

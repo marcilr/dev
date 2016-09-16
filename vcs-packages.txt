@@ -1,0 +1,24 @@
+vcs-packages.txt
+Created Thu Jul 28 08:28:24 AKDT 2011
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Version Control System packages
+
+
+Packages
+========
+bzr - easy to use distributed version control system
+  Discovered this tool when building pithos a pandora client for the GNOME Desktop.  
+
+bzr-doc - easy to use distributed version control system (documentation)
+bzrtools - Collection of tools for bzr
+
+git - fast, scalable, distributed revision control system
+git-doc - fast, scalable, distributed revision control system (documentation)
+
+mercurial - scalable distributed version control system
+
+subversion - Advanced version control system
+subversion-tools - Assorted tools related to Subversion
+

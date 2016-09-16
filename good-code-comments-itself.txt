@@ -1,0 +1,34 @@
+good-code-comments-itself.txt
+Created Thu Aug 13 09:11:59 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Re: Commenting, was: Inline POD vs. EOF POD
+by Abigail on Jul 10, 2001 at 19:45 UTC
+
+  On several occasions a monk who we all think highly of, let me know that
+  good code comments itself.  If you choose the names of variables and
+  functions carefully, their function in the program becomes clear without
+  separate comments.
+
+Yeah, I've heard that before too.  K&P write that too. And it's certainly true
+that well written code needs less comments.  It avoids micro comments, of the
+style "add one to the number of elements".  However, in general well choosen
+names of variables don't explain *why* certain actions are taken.  At best
+they tell us what is going on.  And usually, they don't tell enough of the
+global picture, an entire block or function.  Names alone don't tell us why
+statements have to be done in a certain order - they don't show pre- or post
+conditions.
+
+I know only one program of substantial size that's commented only sparsely,
+and that's perl.  But I've never heard that code is easy to grasp...
+
+-- Abigail
+
+
+
+Links
+=====
+Inline POD vs. EOF POD
+by lachoy on on Jul 09, 2001 at 17:32 UTC 
+http://www.perlmonks.org/?node=94969

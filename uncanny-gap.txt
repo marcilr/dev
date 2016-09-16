@@ -1,0 +1,113 @@
+uncanny-gap.txt
+Created Tue Nov 24 08:27:02 AKST 2009
+by Raymond E. Marcil
+
+
+
+While watching Science of the Movies on the Discovery, on TiVo on Nov 24, 2009, saw a great 
+segment on the "uncanny gap".  Basically CGI of human beings has improved on a study curve 
+for a number of years.  However, an "uncanny gap" is reached where no amount of 
+enhancements improve the portrayal of the person.  In fact minor "impovements" make the 
+realism much worse.  The realism curve drops off sharply. Within the last year the gap 
+was bridged.
+
+The Science of the Movies show a Hollywood special effects company that built a buckyball 
+shaped cage with many lights on each vertex for illuminating the subject.  Multiple photos 
+and multiple frequencies of light to capture the tonal and texture qualities of the face.
+Remember 67 photos being used to capture facial qualities.  All of this then went into a 
+computer with polynomial map of the face with applied tone and features.
+
+FIXME: Unable to track down the uncanny gap episode.
+
+
+Googling definitions of anthropomorphism, I discovered a Wikipedia article on a fascinating 
+phenomenon known as the Uncanny Valley:
+
+'The Uncanny Valley is a principle of robotics concerning the emotional response of humans 
+to robots and other non-human entities. It was theorized by Japanese roboticist Masahiro 
+Mori in the late 1970s through psychological experiments in which he measured human 
+response to robots of varying degrees of anthropomorphism.
+
+'This principle states that as a robot is made more humanlike in its appearance and motion, 
+the emotional response of a human being to the robot will become increasingly positive and 
+empathetic, until a point is reached at which the response suddenly becomes strongly 
+repulsive. Thenceforth, as the appearance and motion are made to be indistinguishable to 
+that of a human being, the emotional response becomes positive once more and approaches 
+human-human empathy levels.'
+
+Okay, that curve sort of makes sense. We like ourselves, and we like our dogs, but we don't 
+like our fellow humans. At least, that's what the Scots say about the English.
+
+Wikipedia again: 'This gap of repulsive response aroused by a robot with appearance and 
+motion between a "barely-human" and "fully human" entity is called the Uncanny Valley. The 
+name harkens to the notion that a robot which is "almost human" will seem overly "strange" 
+to a human being and thus will fail to evoke the requisite empathetic response required for 
+productive human-robot interaction.
+
+'The phenomenon can be explained by the notion that if an entity is sufficiently 
+non-humanlike, then the humanlike characteristics will tend to stand out and be noticed 
+easily, generating empathy. On the other hand, if the entity is "almost human", then the 
+non-human characteristics will be the ones that stand out, leading to a feeling of 
+"strangeness" in the human viewer.'
+
+Ah, now that's beginning to work for me in other ways. 'The darkest hour is just before 
+dawn', and the almost-human is the least human. Being a literary sort of guy, I'm also 
+tempted to plot the uncanny valley to the gap that divides simile from metaphor, the gap 
+between like and is. We're comfortable saying a photograph is 'like' us. We're comfortable 
+saying a mirror image 'is' us. But something that's both photo and mirror (like a live 
+video image of ourselves we glimpse in a TV shop window) exists in the uncanny gap between 
+simile and metaphor, and can sometimes horrify us as a result.
+
+The Uncanny Valley idea also chimes with Freud's narcissism of minor differences ('the 
+phenomenon that it is precisely communities with adjoining territories, and related to each 
+other in other ways as well, who are engaged in constant feuds and in ridiculing each 
+other'), or Derrida's strategic valorisation of the suppressed supplementary term of any 
+binary.
+
+Wikipedia continues: 'Although originally applied only to robotics, the principle has been 
+applied to computer-animation characters. The Uncanny Valley was considered by some to be 
+the reason behind the difficulty in creating computer-animated characters. The principle 
+leads to the conclusion that to generate a positive emotional response in human beings, it 
+is often better to include fewer human characteristics in the entity, lest it fall into the 
+Uncanny Valley.'
+
+This assumes that we as storytellers want to avoid the uncanny and encourage empathy. But 
+what if we want to evoke it? What, in other words, if we're into Brecht rather than Method, 
+into alienation rather than identification, into defamiliarization rather than 
+familiarization, ostranenie rather than repetition?
+
+The place where the 'credibility gap' or the 'uncanny valley' occurs is not at the point 
+furthest from the truth, but at the point closest to it. When something is almost credible, 
+it lacks credibility. When it's completely incredible, it has an odd sort of believability. 
+Perhaps this explains the idea that someone like John Kerry, famously decorated for 
+bravery, can be rubbished for cowardice, whereas Bush, who everybody knows skived off his 
+military service, can seem 'brave' and 'resolute' to many. Once a thesis gets overstated, 
+the antithesis has a tendency to rush in, even if the truth lies closer to the thesis than 
+the antithesis.
+
+If, plunged deep into the Uncanny Valley, it's easy to see the other as truly other rather 
+than as a version of oneself, perhaps we can overcome aversion? It's often suggested that a 
+world in which we are 'all brothers' and 'live as one' would be a world without killing. 
+That may be true, if the unity is total. But if we miss that goal and simply achieve a 
+world of 'minor differences', we're in trouble. I believe that divergence, not convergence, 
+is the answer. We need to value our differences from other people, not our similarities to 
+them. 'Double strangeness' might be the way out of the murderous narcissism of minor 
+differences. Perhaps, with the help of the uncanny, 'ape shall never kill ape'.
+
+from: livejournal.com/
+
+
+Links
+=====
+Science of the Movies
+Hosted by Nar
+http://science.discovery.com/tv/science-movies/science-movies.html
+
+Uncanny valley
+From Wikipedia, the free encyclopedia
+Great info on the uncanny valley.  Many good references.
+http://en.wikipedia.org/wiki/Uncanny_valley
+
+The Uncanny Valley
+Interesting page with reference to wikipedia page.
+http://imomus.livejournal.com/53978.html
