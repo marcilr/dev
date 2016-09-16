@@ -48,11 +48,11 @@ ssh://git@github.com/marcilr/sublime                          editors/sublime
 # Languages
 #
 # =====================================================================
-ssh://git@github.com/marcilr/dev-lang                         lang
-ssh://git@github.com/marcilr/dev-lang-markup                  lang/markup
-ssh://git@github.com/marcilr/dev-lang-snmp                    lang/snmp
-ssh://git@github.com/marcilr/dev-lang-snmp-00INSTALL          lang/snmp/00INSTALL
-ssh://git@github.com/marcilr/dev-lang-snmp-snmpwalk           lang/snmp/snmpwalk
+ssh://git@github.com/marcilr/lang                             lang
+ssh://git@github.com/marcilr/lang-markup                      lang/markup
+ssh://git@github.com/marcilr/lang-snmp                        lang/snmp
+ssh://git@github.com/marcilr/lang-snmp-00INSTALL              lang/snmp/00INSTALL
+ssh://git@github.com/marcilr/lang-snmp-snmpwalk               lang/snmp/snmpwalk
 
 
 # =====================================================================
