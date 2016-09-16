@@ -19,7 +19,7 @@
 # Compilers
 #
 # =====================================================================
-ssh://git@github.com/marcilr/dev-compilers                    compilers
+ssh://git@github.com/marcilr/compilers                        compilers
 
 
 # =====================================================================
