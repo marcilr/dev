@@ -1,0 +1,59 @@
+#
+# svn_ext_val.txt
+# Created Mon Mar 26 06:52:29 AKDT 2012
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under dev/
+#
+# 00ARCHIVES/        Archives
+# data-structures/   Data structures
+# docs/              Development documentation
+#
+# editors/           Editors for development
+# fusion/            Fusion - References to Bussard's fusor with cold fusion.
+#
+# git/               Git - Fast Version Control System
+#                    http://git-scm.com/
+#
+# gnu/               GNU GPL software and licenses
+#
+# ide/               Integrated Developement Environment
+#
+# libs/              Libraries
+# linux/             Linux
+# logging/           Logging
+# pdf/               Portable Document Format files
+#
+# perforce/          Perforce revision control software used by GCI Network
+#                    Services.
+#                    http://www.perforce.com/product/components/perforce-versioning-engine
+#
+# pics/              Pictures
+#
+# rfc/               Request for Comments or Request For Change documents.
+#                    http://en.wikipedia.org/wiki/Request_for_Comments
+#
+# samsung/           Samsung development
+# subversion/        Release management tool of choice.
+#
+../../dev/00ARCHIVES/00ARCHIVES             ./00ARCHIVES
+../../dev/data-structures/data-structures   ./data-structures
+../../dev/docs/docs                         ./docs
+../../dev/editors/editors                   ./editors
+../../dev/fusion/fusion                     ./fusion
+../../dev/git/git                           ./git
+../../dev/gnu/gnu                           ./gnu
+../../dev/ide/ide                           ./ide
+../../dev/libs/libs                         ./libs
+../../dev/linux/linux                       ./linux
+../../dev/logging/logging                   ./logging
+../../dev/perforce/perforce                 ./perforce
+../../dev/pdf/pdf                           ./pdf
+../../dev/pics/pics                         ./pics
+../../dev/rfc/rfc                           ./rfc
+../../dev/samsung/samsung                   ./samsung
+../../dev/subversion/subversion             ./subversion
+../../dev/web/web                           ./web
