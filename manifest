@@ -37,6 +37,7 @@ ssh://git@github.com/marcilr/sublime                          editors/sublime
 # =====================================================================
 ssh://git@github.com/marcilr/lang                             lang
 ssh://git@github.com/marcilr/markup                           lang/markup
+ssh://git@github.com/marcilr/markdown                         lang/markup/markdown
 ssh://git@github.com/marcilr/snmp                             lang/snmp
 
 
