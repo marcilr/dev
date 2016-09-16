@@ -1,0 +1,58 @@
+README
+Created Tue Jul 15 09:36:55 AKDT 2008
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Best ways to generate PDFs from various documet formats.
+
+
+Microsoft Word
+==============
+Use AbiWord v2.4.6 print under debian etch.
+
+$ dpkg -l | grep abiword
+ii  abiword-common     2.4.6-1.1     WYSIWYG word processor based on GTK2
+ii  abiword-gnome      2.4.6-1.1     WYSIWYG word processor based on GTK2/GNOME2
+
+
+PDF to text
+===========
+2) Install poppler-utils or xpdf for full-text indexing of PDFs
+If pdftotext is not installed on your system (i.e. `which pdftotext` returns nothing at the 
+command line), install poppler-utils which bundles pdftotext (PDF to text converter), 
+pdfinfo (PDF document information extractor), pdfimages (PDF image extractor), and pdffonts 
+(PDF font analyzer). Note: xpdf bundles these utilities and more. However, poppler-utils is 
+the preferred option since only the command-line converters are required. 
+  sudo apt-get install poppler-utils
+
+
+If poppler-utils is unavailable, install xpdf:
+  sudo apt-get install xpdf
+
+from: plone.org/
+
+
+Filelist
+========
+documentation.pdf
+  Software Documentation
+  Ian Sommerville
+  Lancaster University, UK
+  Nice document regarding documentation.
+  http://www.literateprogramming.com/documentation.pdf
+
+HowToIndexAnything.pdf
+  How to Index Anything by Josh Rabinowitz
+  Linux Journal article
+  About use of swish-e for indexing.
+  http://joshr.com/src/docs/HowToIndexAnything.pdf
+
+
+Links
+=====
+Enable full-text indexing of Word documents and PDFs in Plone 3.0 (GNU/Linux)
+http://plone.org/documentation/how-to/enable-full-text-indexing-of-word-documents-and-pdfs-in-plone-3-0-gnu-linux
+
+Swish-e
+Simple Web Indexing System for Humans - Enhanced
+http://swish-e.org/
