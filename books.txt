@@ -1,0 +1,26 @@
+books.txt
+Created Fri Jun  3 09:34:20 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Development related books
+
+
+The Definitive Gudie to GCC end Edition
+  Completely updatd to cover GCC 4.x
+  Everything you need to know about using
+  the GNU Compiler Collection and related tools
+  by William von Hagen
+  Publisher: Apress
+  Copyright: 2006 by William vojn Hagen
+  price: $49.99 (ebook)
+
+
+Filelist
+========
+The-Definitive-Guide-to-GCC-2nd-Edition.jpg
+The-Definitive-Guide-to-GCC-2nd-Edition.txt
+  The Definitive Gudie to GCC end Edition
+  by William von Hagen
+  Publisher: Apress
+

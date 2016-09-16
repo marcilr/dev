@@ -1,0 +1,14 @@
+The-Definitive-Guide-to-GCC-2nd-Edition.txt
+Created Fri Jun  3 09:38:34 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+The Definitive Gudie to GCC end Edition
+  Completely updatd to cover GCC 4.x
+  Everything you need to know about using
+  the GNU Compiler Collection and related tools
+  by William von Hagen
+  Publisher: Apress
+  Copyright: 2006 by William vojn Hagen
+  price: $49.99 (ebook)
+  https://books.google.com/books?id=wQ6r3UTivJgC&pg=PA259&lpg=PA259&dq=gzip+-9+argument&source=bl&ots=ELYnVl9EGA&sig=i5o9TqmcglbmyrDFvoW1Etnts8o&hl=en&sa=X&ved=0ahUKEwjSvMjh1IrNAhVDImMKHTRNATg4ChDoAQgbMAA#v=onepage&q=gzip%20-9%20argument&f=false
