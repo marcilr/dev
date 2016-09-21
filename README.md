@@ -22,7 +22,7 @@ project_spec
   in the cvs repository.  
 
 project-docs.txt  
-  Notes on project documents.  
+  Notes on project documents  
 
 stubs.txt  
   This looks like the idea for depsrc a package I build to resolve build  
