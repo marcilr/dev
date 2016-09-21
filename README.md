@@ -1,6 +1,6 @@
 README  
 Created Thu Apr 26 08:56:54 AKDT 2007  
-Copyright (C) 2007-2016 by Raymond E. Marcil &gt;marcilr@gmail.com&lt;  
+Copyright (C) 2007-2016 by Raymond E. Marcil &lt;marcilr@gmail.com&gt;  
 
 
 Development tools, languages, and libraries
