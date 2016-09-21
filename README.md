@@ -4,7 +4,7 @@ Created Thu Apr 26 08:56:54 AKDT 2007
 by Raymond E. Marcil &lt;marcilr@gmail.com&gt; 
 
 
-Development tools, libraries, and information  
+Development tools, languages, and libraries
 
 
 Filelist  
