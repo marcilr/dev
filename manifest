@@ -13,21 +13,28 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
+# =====================================================================
+#
+# build-essentials
+#
+# =====================================================================
+ssh://git@github.com/marcilr/build-essentials   build-essentials
+
 
 # =====================================================================
 #
 # Compilers
 #
 # =====================================================================
-ssh://git@github.com/marcilr/compilers                        compilers
+ssh://git@github.com/marcilr/compilers          compilers
 
 # =====================================================================
 #
 # Editors
 #
 # =====================================================================
-ssh://git@github.com/marcilr/editors                          editors
-ssh://git@github.com/marcilr/sublime                          editors/sublime
+ssh://git@github.com/marcilr/editors            editors
+ssh://git@github.com/marcilr/sublime            editors/sublime
 
 
 # =====================================================================
@@ -35,7 +42,7 @@ ssh://git@github.com/marcilr/sublime                          editors/sublime
 # Headers
 #
 # =====================================================================
-ssh://git@github.com/marcilr/headers                          headers
+ssh://git@github.com/marcilr/headers            headers
 
 
 # =====================================================================
@@ -43,10 +50,10 @@ ssh://git@github.com/marcilr/headers                          headers
 # Languages
 #
 # =====================================================================
-ssh://git@github.com/marcilr/lang                             lang
-ssh://git@github.com/marcilr/markup                           lang/markup
-ssh://git@github.com/marcilr/markdown                         lang/markup/markdown
-ssh://git@github.com/marcilr/snmp                             lang/snmp
+ssh://git@github.com/marcilr/lang               lang
+ssh://git@github.com/marcilr/markup             lang/markup
+ssh://git@github.com/marcilr/markdown           lang/markup/markdown
+ssh://git@github.com/marcilr/snmp               lang/snmp
 
 
 # =====================================================================
@@ -60,7 +67,7 @@ ssh://git@github.com/marcilr/snmp                             lang/snmp
 #            Great items such as j for the day of the year as a decimal
 #            number (range 001 to 366).
 #
-ssh://git@github.com/marcilr/lib                              lib
+ssh://git@github.com/marcilr/lib                lib
 
 
 #
@@ -71,4 +78,4 @@ ssh://git@github.com/marcilr/lib                              lib
 # standards.
 # --https://en.wikipedia.org/wiki/XML
 #
-ssh://git@github.com/marcilr/xml                            lang/xml
+ssh://git@github.com/marcilr/xml                lang/xml
