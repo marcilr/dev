@@ -28,6 +28,12 @@ stubs.txt
   This looks like the idea for depsrc a package I build to resolve build  
   depencies in ant's  build.xml  
 
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under dev/
+
+TODO
+  TODO items for development
+
 
 Links  
 =====  
@@ -82,9 +88,3 @@ DevGuy's CVS Information
 To get list of modules:  
   cvs checkout CVSROOT/modules  
 http://www.devguy.com/fp/cfgmgmt/cvs/  
-
-svn_ext_val.txt  
-  List of repo hierarchical directories to checkout under dev/  
-
-TODO  
-  TODO items for development  
