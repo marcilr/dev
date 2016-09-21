@@ -28,14 +28,6 @@ ssh://git@github.com/marcilr/build-essential   build-essential
 # =====================================================================
 ssh://git@github.com/marcilr/compilers         compilers
 
-# =====================================================================
-#
-# Editors
-#
-# =====================================================================
-ssh://git@github.com/marcilr/editors           editors
-ssh://git@github.com/marcilr/sublime           editors/sublime
-
 
 # =====================================================================
 #
@@ -79,3 +71,12 @@ ssh://git@github.com/marcilr/lib                lib
 # --https://en.wikipedia.org/wiki/XML
 #
 ssh://git@github.com/marcilr/xml               lang/xml
+
+
+# =====================================================================
+#
+# Text Editors
+#
+# =====================================================================
+ssh://git@github.com/marcilr/text-editors      text-editors
+ssh://git@github.com/marcilr/sublime           editors/sublim
