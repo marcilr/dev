@@ -15,10 +15,10 @@
 
 # =====================================================================
 #
-# build-essentials
+# build-essential
 #
 # =====================================================================
-ssh://git@github.com/marcilr/build-essentials   build-essentials
+ssh://git@github.com/marcilr/build-essential   build-essential
 
 
 # =====================================================================
@@ -26,15 +26,15 @@ ssh://git@github.com/marcilr/build-essentials   build-essentials
 # Compilers
 #
 # =====================================================================
-ssh://git@github.com/marcilr/compilers          compilers
+ssh://git@github.com/marcilr/compilers         compilers
 
 # =====================================================================
 #
 # Editors
 #
 # =====================================================================
-ssh://git@github.com/marcilr/editors            editors
-ssh://git@github.com/marcilr/sublime            editors/sublime
+ssh://git@github.com/marcilr/editors           editors
+ssh://git@github.com/marcilr/sublime           editors/sublime
 
 
 # =====================================================================
@@ -42,7 +42,7 @@ ssh://git@github.com/marcilr/sublime            editors/sublime
 # Headers
 #
 # =====================================================================
-ssh://git@github.com/marcilr/headers            headers
+ssh://git@github.com/marcilr/headers           headers
 
 
 # =====================================================================
@@ -50,10 +50,10 @@ ssh://git@github.com/marcilr/headers            headers
 # Languages
 #
 # =====================================================================
-ssh://git@github.com/marcilr/lang               lang
-ssh://git@github.com/marcilr/markup             lang/markup
-ssh://git@github.com/marcilr/markdown           lang/markup/markdown
-ssh://git@github.com/marcilr/snmp               lang/snmp
+ssh://git@github.com/marcilr/lang              lang
+ssh://git@github.com/marcilr/markup            lang/markup
+ssh://git@github.com/marcilr/markdown          lang/markup/markdown
+ssh://git@github.com/marcilr/snmp              lang/snmp
 
 
 # =====================================================================
@@ -78,4 +78,4 @@ ssh://git@github.com/marcilr/lib                lib
 # standards.
 # --https://en.wikipedia.org/wiki/XML
 #
-ssh://git@github.com/marcilr/xml                lang/xml
+ssh://git@github.com/marcilr/xml               lang/xml
