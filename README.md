@@ -28,11 +28,11 @@ stubs.txt
   This looks like the idea for depsrc a package I build to resolve build  
   depencies in ant's  build.xml  
 
-svn_ext_val.txt
-  List of repo hierarchical directories to checkout under dev/
+svn_ext_val.txt  
+  List of repo hierarchical directories to checkout under dev/  
 
-TODO
-  TODO items for development
+TODO  
+  TODO items for development  
 
 
 Links  
