@@ -1,7 +1,7 @@
 README  
 Copyright 2007, Applied Microsystems, Inc.  All Rights Reserved  
 Created Thu Apr 26 08:56:54 AKDT 2007  
-by Raymond E. Marcil &gt;marcilr@gmail.com&lt; 
+by Raymond E. Marcil &lt;marcilr@gmail.com&gt; 
 
 
 Development tools, libraries, and information  
