@@ -1,0 +1,35 @@
+packages.txt
+Created Thu Sep 29 13:19:08 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Debian 8.6 amd64 packages for development
+
+
+build-essential - Informational list of build-essential packages
+  Installs the following collection to compile c/c++ program on Debian/Ubuntu
+
+  Linux:
+  1. libc6-dev - C standard library.
+  2. gcc       - C compiler.
+  3. g++       - C++ compiler.
+  4. make      - GNU make utility to maintain groups of programs.
+  5. dpkg-dev  - Debian package development tools.
+
+  Basically, build-essential package contains an informational list of
+  packages which are considered essential for building Debian packages
+  including gcc compilertial packages installed.d tools.  This package also
+  depends on the packages on that list, to make it easy to have the
+  build-essential packages installed.
+
+
+
+
+Links
+=====
+Debian Linux Install GNU GCC Compiler and Development Environment
+by VIVEK GITE on FEBRUARY 26, 2009 last updated OCTOBER 16, 2013
+in DEBIAN / UBUNTU, PACKAGE MANAGEMENT, PROGRAMMING
+nixCraft
+Linux and Unix tutorials for new and seasoned sysadmin.
+http://www.cyberciti.biz/faq/debian-linux-install-gnu-gcc-compiler/
