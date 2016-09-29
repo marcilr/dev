@@ -17,6 +17,10 @@ links.txt
 logging  
   Notes and example of logging from a c program.  
 
+packages.txt  
+  packages.txt  
+  Debian 8.6 amd64 packages for development  
+
 project_spec    
   Project specification document that details how to store projects  
   in the cvs repository.  
