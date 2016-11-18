@@ -87,4 +87,4 @@ ssh://git@github.com/marcilr/logging           logging
 #
 # =====================================================================
 ssh://git@github.com/marcilr/text-editors      text-editors
-ssh://git@github.com/marcilr/sublime           editors/sublim
+ssh://git@github.com/marcilr/sublime           editors/sublime
