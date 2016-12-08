@@ -19,4 +19,5 @@
 # Editors
 #
 # =====================================================================
-ssh://git@github.com/marcilr/sublime           editors/sublime
+ssh://git@github.com/marcilr/emacs     emacs
+ssh://git@github.com/marcilr/sublime   sublime
