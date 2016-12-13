@@ -124,6 +124,10 @@ TARTS
 Wireless Sensors for Makers
 https://www.tartssensors.com/?gclid=CLiQoqWy5MsCFQdqfgodW3cBIw
 
+The Rule of Silence
+Some very good thoughts here.
+http://www.linfo.org/rule_of_silence.html
+
 The 25 Most Dangerous Programming Errors  
 http://developers.slashdot.org/story/10/02/17/2327253/The-25-Most-Dangerous-Programming-Errors  
 
