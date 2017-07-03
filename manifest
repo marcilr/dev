@@ -31,6 +31,16 @@ ssh://git@github.com/marcilr/compilers         compilers
 
 # =====================================================================
 #
+# Editors
+#
+# =====================================================================
+ssh://git@github.com/marcilr/editors           editors
+ssh://git@github.com/marcilr/emacs             editors/emacs
+ssh://git@github.com/marcilr/sublime           editors/sublime
+
+
+# =====================================================================
+#
 # Headers
 #
 # =====================================================================
@@ -47,6 +57,16 @@ ssh://git@github.com/marcilr/markup            lang/markup
 ssh://git@github.com/marcilr/markdown          lang/markup/markdown
 ssh://git@github.com/marcilr/snmp              lang/snmp
 
+#
+# Extensible Markup Language (XML) is a markup language that defines a set of
+# rules for encoding documents in a format that is both human-readable and
+# machine-readable.  It is defined in the XML 1.0 Specification produced by
+# the W3C, and several other related specifications, all free open
+# standards.
+# --https://en.wikipedia.org/wiki/XML
+#
+ssh://git@github.com/marcilr/xml   lang/xml
+
 
 # =====================================================================
 #
@@ -59,18 +79,7 @@ ssh://git@github.com/marcilr/snmp              lang/snmp
 #            Great items such as j for the day of the year as a decimal
 #            number (range 001 to 366).
 #
-ssh://git@github.com/marcilr/lib                lib
-
-
-#
-# Extensible Markup Language (XML) is a markup language that defines a set of
-# rules for encoding documents in a format that is both human-readable and
-# machine-readable.  It is defined in the XML 1.0 Specification produced by
-# the W3C, and several other related specifications, all free open
-# standards.
-# --https://en.wikipedia.org/wiki/XML
-#
-ssh://git@github.com/marcilr/xml               lang/xml
+ssh://git@github.com/marcilr/lib   lib
 
 
 # =====================================================================
@@ -78,13 +87,12 @@ ssh://git@github.com/marcilr/xml               lang/xml
 # Logging
 #
 # =====================================================================
-ssh://git@github.com/marcilr/logging           logging
+ssh://git@github.com/marcilr/logging   logging
 
 
 # =====================================================================
 #
-# Text Editors
+# make
 #
 # =====================================================================
-ssh://git@github.com/marcilr/text-editors      text-editors
-ssh://git@github.com/marcilr/sublime           editors/sublime
+ssh://git@github.com/marcilr/make   make
