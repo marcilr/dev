@@ -103,4 +103,4 @@ ssh://git@github.com/marcilr/make   make
 # pkg-config
 #
 # =====================================================================
-ssh://git@github.com/marcilr/pkg-config   pkgconfig
+ssh://git@github.com/marcilr/pkg-config   pkg-config
