@@ -13,6 +13,15 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
+
+# =====================================================================
+#
+# autotools - The GNU Build System, including autoconf,
+#             automake, and libtool.
+#
+# =====================================================================
+ssh://git@github.com/marcilr/autotools   autotools
+
 # =====================================================================
 #
 # build-essential
