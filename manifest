@@ -96,3 +96,11 @@ ssh://git@github.com/marcilr/logging   logging
 #
 # =====================================================================
 ssh://git@github.com/marcilr/make   make
+
+
+# =====================================================================
+#
+# pkg-config
+#
+# =====================================================================
+ssh://git@github.com/marcilr/pkg-config   pkgconfig
