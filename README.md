@@ -8,6 +8,12 @@ Development tools, languages, and libraries
 
 Filelist  
 ========  
+editors/
+  Editors
+
+docs/
+  Documentation
+
 glossary.txt  
   Glossary for development  
 
