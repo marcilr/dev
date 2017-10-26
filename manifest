@@ -33,6 +33,8 @@ ssh://git@github.com/marcilr/autotools   autotools
 # =====================================================================
 ssh://git@github.com/marcilr/compilers         compilers
 
+# DevOps
+ssh://git@github.com/marcilr/devops            devops
 
 # =====================================================================
 #
