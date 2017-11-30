@@ -13,6 +13,9 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
+# Agile
+ssh://git@github.com/marcilr/agile   agile
+
 # Amazon Web Services
 ssh://git@github.com/marcilr/aws   aws
 
