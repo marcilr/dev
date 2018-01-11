@@ -19,6 +19,22 @@ GNU Free Documentation License - ???
 
 GPL - GNU General Public License
 
+KPI - A performance indicator or key performance indicator (KPI) is a
+  type of performance measurement.[1] KPIs evaluate the success of an
+  organization or of a particular activity (such as projects, programs,
+  products and other initiatives) in which it engages.
+  --Performance indicator
+    From Wikipedia, the free encyclopedia
+    https://en.wikipedia.org/wiki/Performance_indicator
+
+SDLC - The systems development life cycle (SDLC), also referred to as the
+  application development life-cycle, is a term used in systems
+  engineering, information systems and software engineering to describe
+  a process for planning, creating, testing, and deploying an information
+  system.
+  --Systems development life cycle - Wikipedia
+    https://en.wikipedia.org/wiki/Systems_development_life_cycle
+
 vcs - Version Control System, Revision control, also known as version control
   and source control (and an aspect of software configuration management), is
   the management of changes to documents, computer programs, large web sites,
