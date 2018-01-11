@@ -27,6 +27,13 @@ KPI - A performance indicator or key performance indicator (KPI) is a
     From Wikipedia, the free encyclopedia
     https://en.wikipedia.org/wiki/Performance_indicator
 
+LOE - Level of effort. In project management, level of effort (LOE)
+  is a support-type project activity that must be done to support other
+  work activities or the entire project effort. It usually consists of
+  short amounts of work that must be repeated periodically.
+  --Level of effort - Wikipedia
+    https://en.wikipedia.org/wiki/Level_of_effort
+
 SDLC - The systems development life cycle (SDLC), also referred to as the
   application development life-cycle, is a term used in systems
   engineering, information systems and software engineering to describe
