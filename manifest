@@ -12,105 +12,23 @@
 # some repos like svn-to-git/ that have acutally dashes in the repo name.
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
-
-# Agile
-ssh://git@github.com/marcilr/agile   agile
-
-# Amazon Web Services
-ssh://git@github.com/marcilr/aws   aws
-
-
-# =====================================================================
-#
-# autotools - The GNU Build System, including autoconf,
-#             automake, and libtool.
-#
-# =====================================================================
-ssh://git@github.com/marcilr/autotools   autotools
-
-
-# =====================================================================
-#
-# Compilers
-#
-# =====================================================================
-ssh://git@github.com/marcilr/compilers         compilers
-
-# DevOps
-ssh://git@github.com/marcilr/devops            devops
-
-# =====================================================================
-#
-# Editors
-#
-# =====================================================================
-ssh://git@github.com/marcilr/editors           editors
-ssh://git@github.com/marcilr/emacs             editors/emacs
-ssh://git@github.com/marcilr/sublime           editors/sublime
-
-
-# =====================================================================
-#
-# Headers
-#
-# =====================================================================
-ssh://git@github.com/marcilr/headers           headers
-
-
-# =====================================================================
-#
-# Languages
-#
-# =====================================================================
-ssh://git@github.com/marcilr/lang              lang
-ssh://git@github.com/marcilr/markup            lang/markup
-ssh://git@github.com/marcilr/markdown          lang/markup/markdown
-ssh://git@github.com/marcilr/snmp              lang/snmp
-
-#
-# Extensible Markup Language (XML) is a markup language that defines a set of
-# rules for encoding documents in a format that is both human-readable and
-# machine-readable.  It is defined in the XML 1.0 Specification produced by
-# the W3C, and several other related specifications, all free open
-# standards.
-# --https://en.wikipedia.org/wiki/XML
-#
-ssh://git@github.com/marcilr/xml   lang/xml
-
-
-# =====================================================================
-#
-# Libraries
-#
-# =====================================================================
-
-#
-# strftime - format date and time
-#            Great items such as j for the day of the year as a decimal
-#            number (range 001 to 366).
-#
-ssh://git@github.com/marcilr/lib   lib
-
-
-# =====================================================================
-#
-# Logging
-#
-# =====================================================================
-ssh://git@github.com/marcilr/logging   logging
-
-
-# =====================================================================
-#
-# make
-#
-# =====================================================================
-ssh://git@github.com/marcilr/make   make
-
-
-# =====================================================================
-#
-# pkg-config
-#
-# =====================================================================
+# ========================================================================= 
+ssh://git@github.com/marcilr/agile        agile
+ssh://git@github.com/marcilr/aws          aws
+ssh://git@github.com/marcilr/autotools    autotools
+ssh://git@github.com/marcilr/compilers    compilers
+ssh://git@github.com/marcilr/devops       devops
+ssh://git@github.com/marcilr/editors      editors
+ssh://git@github.com/marcilr/emacs        editors/emacs
+ssh://git@github.com/marcilr/sublime      editors/sublime
+ssh://git@github.com/marcilr/headers      headers
+ssh://git@github.com/marcilr/lang         lang
+ssh://git@github.com/marcilr/markup       lang/markup
+ssh://git@github.com/marcilr/markdown     lang/markup/markdown
+ssh://git@github.com/marcilr/snmp         lang/snmp
+ssh://git@github.com/marcilr/xml          lang/xml
+ssh://git@github.com/marcilr/lib          lib
+ssh://git@github.com/marcilr/logging      logging
+ssh://git@github.com/marcilr/make         make
+ssh://git@github.com/marcilr/postman      postman
 ssh://git@github.com/marcilr/pkg-config   pkg-config
