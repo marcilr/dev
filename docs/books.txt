@@ -6,15 +6,14 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Development related books
 
 
-Books
-=====
-The Pragmatic Bookshelf books:
+The Pragmatic Bookshelf
+=======================
+Wow, great books here
 
 Debug It!
 Find, Repair, and Prevent Bugs in Your Code
 by Paul Butcher
 https://pragprog.com/book/pbdp/debug-it
-
 
 New Programmer's Survival Manual
 Navigate Your Workplace, Cube Farm, or Startup
