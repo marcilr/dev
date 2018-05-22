@@ -1,0 +1,56 @@
+books.txt
+Created Mon May 21 16:01:55 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Development related books
+
+
+Books
+=====
+The Pragmatic Bookshelf books:
+
+Debug It!
+Find, Repair, and Prevent Bugs in Your Code
+by Paul Butcher
+https://pragprog.com/book/pbdp/debug-it
+
+
+New Programmer's Survival Manual
+Navigate Your Workplace, Cube Farm, or Startup
+by Josh Carter
+https://pragprog.com/book/jcdeg/new-programmer-s-survival-manual
+
+Practices of an Agile Developer
+by Venkat Subramaniam and Andy Hunt
+https://pragprog.com/book/pad/practices-of-an-agile-developer
+
+Sublime Text 2
+by Mike Riley
+price: Sublime Text ($12.00, 54 mins)
+https://pragprog.com/screencast/v-mrst2/sublime-text-2
+
+The Developer's Code
+What Real Programmers Do
+by Ka Wai Cheung
+https://pragprog.com/book/kcdc/the-developer-s-code
+
+The Passionate Programmer (2nd edition)
+Creating a Remarkable Career in Software Development
+by Chad Fowler
+https://pragprog.com/book/cfcar2/the-passionate-programmer
+
+The Pragmatic Programmer
+From Journeyman to Master
+by Andrew Hunt and David Thomas
+https://pragprog.com/book/tpp/the-pragmatic-programmer
+
+Working with TCP Sockets
+by Jesse Storimer
+price: $29.00
+Looks good.
+https://pragprog.com/book/jstcp/working-with-tcp-sockets
+
+Working With Unix Processes
+by Jesse Storimer
+https://pragprog.com/book/jsunix/working-with-unix-processes
