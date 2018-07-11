@@ -1,0 +1,17 @@
+links.txt
+Created Wed Jul 11 08:57:10 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Book related links
+
+
+Links
+=====
+Free programming books
+Great online list
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
+
+
+
