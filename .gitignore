@@ -6,4 +6,6 @@
 #
 .gitignore
 editors/
+lang/
+
 
