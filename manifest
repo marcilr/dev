@@ -23,7 +23,8 @@ https://github.com/marcilr/editors.git    editors
 ssh://git@github.com/marcilr/emacs        editors/emacs
 ssh://git@github.com/marcilr/sublime      editors/sublime
 ssh://git@github.com/marcilr/headers      headers
-ssh://git@github.com/marcilr/lang         lang
+#ssh://git@github.com/marcilr/lang         lang
+https://github.com/marcilr/lang.git       lang
 ssh://git@github.com/marcilr/markup       lang/markup
 ssh://git@github.com/marcilr/markdown     lang/markup/markdown
 ssh://git@github.com/marcilr/snmp         lang/snmp
