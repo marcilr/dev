@@ -1,0 +1,9 @@
+#.gitignore
+# Created Mon November 20, 2018
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+editors/
+
