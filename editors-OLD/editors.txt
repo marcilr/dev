@@ -1,5 +1,0 @@
-editors.txt
-Created Wed Dec  7 15:42:35 AKST 2016
-Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
-
-Editors
