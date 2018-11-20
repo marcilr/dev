@@ -18,7 +18,8 @@ ssh://git@github.com/marcilr/aws          aws
 ssh://git@github.com/marcilr/autotools    autotools
 ssh://git@github.com/marcilr/compilers    compilers
 ssh://git@github.com/marcilr/devops       devops
-ssh://git@github.com/marcilr/editors      editors
+#ssh://git@github.com/marcilr/editors      editors
+https://github.com/marcilr/editors.git    editors
 ssh://git@github.com/marcilr/emacs        editors/emacs
 ssh://git@github.com/marcilr/sublime      editors/sublime
 ssh://git@github.com/marcilr/headers      headers
