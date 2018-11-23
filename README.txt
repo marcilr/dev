@@ -14,6 +14,10 @@ Filelist
 .gitignore
   Files for git to ignore
 
+create/
+  Script to create file with filename, author, and datestamp
+  in header.
+
 docs/
   Documentation
 
