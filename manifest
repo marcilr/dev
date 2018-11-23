@@ -17,6 +17,7 @@ ssh://git@github.com/marcilr/agile        agile
 ssh://git@github.com/marcilr/aws          aws
 ssh://git@github.com/marcilr/autotools    autotools
 ssh://git@github.com/marcilr/compilers    compilers
+https://github.com/marcilr/create         create
 ssh://git@github.com/marcilr/devops       devops
 #ssh://git@github.com/marcilr/editors      editors
 https://github.com/marcilr/editors.git    editors
@@ -32,5 +33,6 @@ ssh://git@github.com/marcilr/xml          lang/xml
 ssh://git@github.com/marcilr/lib          lib
 ssh://git@github.com/marcilr/logging      logging
 ssh://git@github.com/marcilr/make         make
+https://github.com/marcilr/os.git         os
 ssh://git@github.com/marcilr/postman      postman
 ssh://git@github.com/marcilr/pkg-config   pkg-config
