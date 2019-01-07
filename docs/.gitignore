@@ -1,0 +1,19 @@
+# .gitignore
+# Created Mon Jan  7 10:54:37 AST 2019
+# by Raymond E. Marcil <ray.marcil@alaska.gov>
+#
+# Files for git to ignore
+#
+agile/
+autotools/
+aws/
+compilers/
+create/
+devops/
+headers/
+lib/
+logging/
+make/
+os/
+pkg-config/
+postman/
