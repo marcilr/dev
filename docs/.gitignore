@@ -4,16 +4,6 @@
 #
 # Files for git to ignore
 #
-agile/
-autotools/
-aws/
-compilers/
-create/
-devops/
-headers/
-lib/
-logging/
-make/
-os/
-pkg-config/
-postman/
+.gitignore
+books/
+documentation/
