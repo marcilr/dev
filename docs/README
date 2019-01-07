@@ -73,6 +73,11 @@ polymorphism.txt
 project-docs.txt
   Notes on project documents.
 
+redirect-output-to-file.txt
+  How do I save terminal output to a file?
+  https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
+
+
 releases.txt
   Meaning of software version .0 to .9
   Do Software Versions Really Matter?
