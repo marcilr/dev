@@ -5,7 +5,18 @@
 # Files for git to ignore.
 #
 .gitignore
+agile/
+autotools/
+aws/
+compilers/
+create/
+devops/
 editors/
+headers/
 lang/
-
-
+lib/
+logging/
+make/
+os/
+pkg-config/
+postman/
