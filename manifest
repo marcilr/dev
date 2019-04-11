@@ -13,6 +13,7 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 # ========================================================================= 
+ssh://git@github.com/marcilr/adt          adt
 ssh://git@github.com/marcilr/agile        agile
 ssh://git@github.com/marcilr/aws          aws
 ssh://git@github.com/marcilr/autotools    autotools
