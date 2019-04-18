@@ -34,7 +34,6 @@ ssh://git@github.com/marcilr/snmp         lang/snmp
 ssh://git@github.com/marcilr/xml          lang/xml
 ssh://git@github.com/marcilr/lib          lib
 ssh://git@github.com/marcilr/logging      logging
-ssh://git@github.com/marcilr/make         make
 https://github.com/marcilr/os.git         os
 ssh://git@github.com/marcilr/postman      postman
 ssh://git@github.com/marcilr/pkg-config   pkg-config
