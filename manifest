@@ -16,7 +16,6 @@
 ssh://git@github.com/marcilr/adt          adt
 ssh://git@github.com/marcilr/agile        agile
 ssh://git@github.com/marcilr/aws          aws
-ssh://git@github.com/marcilr/autotools    autotools
 ssh://git@github.com/marcilr/compilers    compilers
 https://github.com/marcilr/create         create
 ssh://git@github.com/marcilr/devops       devops
