@@ -17,16 +17,14 @@ ssh://git@github.com/marcilr/agile        agile
 ssh://git@github.com/marcilr/aws          aws
 ssh://git@github.com/marcilr/autotools    autotools
 ssh://git@github.com/marcilr/compilers    compilers
-https://github.com/marcilr/create         create
+ssh://git@github.com/marcilr/create       create
 ssh://git@github.com/marcilr/devops       devops
 ssh://git@github.com/marcilr/eclipse      eclipse
-#ssh://git@github.com/marcilr/editors      editors
-https://github.com/marcilr/editors.git    editors
+ssh://git@github.com/marcilr/editors      editors
 ssh://git@github.com/marcilr/emacs        editors/emacs
 ssh://git@github.com/marcilr/sublime      editors/sublime
 ssh://git@github.com/marcilr/headers      headers
-#ssh://git@github.com/marcilr/lang         lang
-https://github.com/marcilr/lang.git       lang
+ssh://git@github.com/marcilr/lang         lang
 ssh://git@github.com/marcilr/markup       lang/markup
 ssh://git@github.com/marcilr/markdown     lang/markup/markdown
 ssh://git@github.com/marcilr/snmp         lang/snmp
@@ -34,6 +32,6 @@ ssh://git@github.com/marcilr/xml          lang/xml
 ssh://git@github.com/marcilr/lib          lib
 ssh://git@github.com/marcilr/logging      logging
 ssh://git@github.com/marcilr/make         make
-https://github.com/marcilr/os.git         os
+ssh://git@github.com/marcilr/os           os
 ssh://git@github.com/marcilr/postman      postman
 ssh://git@github.com/marcilr/pkg-config   pkg-config
