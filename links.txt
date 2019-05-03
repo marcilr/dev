@@ -6,6 +6,10 @@ Copyright (C) 2011-2016 by Raymond E. Marcil <marcilr@gmail.com>
 Development related links
 
 
+Like the text and formatting on the virtualbox page:
+  https://www.virtualbox.org/wiki/Linux_Downloads
+
+
 Links
 =====
 A Guide to Naming Variables
