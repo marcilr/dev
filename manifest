@@ -21,9 +21,7 @@ ssh://git@github.com/marcilr/create       create
 ssh://git@github.com/marcilr/devops       devops
 ssh://git@github.com/marcilr/eclipse      eclipse
 ssh://git@github.com/marcilr/editors      editors
-ssh://git@github.com/marcilr/emacs        editors/emacs
 ssh://git@github.com/marcilr/gnu          gnu
-ssh://git@github.com/marcilr/sublime      editors/sublime
 ssh://git@github.com/marcilr/headers      headers
 ssh://git@github.com/marcilr/lang         lang
 ssh://git@github.com/marcilr/markup       lang/markup
