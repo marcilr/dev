@@ -32,11 +32,7 @@ ssh://git@github.com/marcilr/snmp         lang/snmp
 ssh://git@github.com/marcilr/xml          lang/xml
 ssh://git@github.com/marcilr/lib          lib
 ssh://git@github.com/marcilr/logging      logging
-<<<<<<< HEAD
 ssh://git@github.com/marcilr/make         make
 ssh://git@github.com/marcilr/os           os
-=======
-https://github.com/marcilr/os.git         os
->>>>>>> 379becb11567792b90fc71d52b00bdefd5fb1621
 ssh://git@github.com/marcilr/postman      postman
 ssh://git@github.com/marcilr/pkg-config   pkg-config
