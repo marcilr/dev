@@ -6,6 +6,7 @@
 #
 .gitignore
 agile/
+adt/
 autotools/
 aws/
 compilers/
@@ -13,11 +14,11 @@ create/
 devops/
 eclipse/
 editors/
+gnu/
 headers/
 lang/
 lib/
 logging/
-make/
 os/
 pkg-config/
 postman/

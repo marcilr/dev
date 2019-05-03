@@ -8,11 +8,18 @@ Development tools, languages, and libraries
 
 Filelist  
 ========  
+.gitignore
+  Files for git to ignore
+
 00ARCHIVES/
   Archives
 
-.gitignore
-  Files for git to ignore
+adt/
+  Abstract Data Types
+
+agile/
+  Agile software development
+  https://en.wikipedia.org/wiki/Agile_software_development
 
 create/
   Script to create file with filename, author, and datestamp

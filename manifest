@@ -13,15 +13,16 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 # ========================================================================= 
+ssh://git@github.com/marcilr/adt          adt
 ssh://git@github.com/marcilr/agile        agile
 ssh://git@github.com/marcilr/aws          aws
-ssh://git@github.com/marcilr/autotools    autotools
 ssh://git@github.com/marcilr/compilers    compilers
 ssh://git@github.com/marcilr/create       create
 ssh://git@github.com/marcilr/devops       devops
 ssh://git@github.com/marcilr/eclipse      eclipse
 ssh://git@github.com/marcilr/editors      editors
 ssh://git@github.com/marcilr/emacs        editors/emacs
+ssh://git@github.com/marcilr/gnu          gnu
 ssh://git@github.com/marcilr/sublime      editors/sublime
 ssh://git@github.com/marcilr/headers      headers
 ssh://git@github.com/marcilr/lang         lang
@@ -31,7 +32,11 @@ ssh://git@github.com/marcilr/snmp         lang/snmp
 ssh://git@github.com/marcilr/xml          lang/xml
 ssh://git@github.com/marcilr/lib          lib
 ssh://git@github.com/marcilr/logging      logging
+<<<<<<< HEAD
 ssh://git@github.com/marcilr/make         make
 ssh://git@github.com/marcilr/os           os
+=======
+https://github.com/marcilr/os.git         os
+>>>>>>> 379becb11567792b90fc71d52b00bdefd5fb1621
 ssh://git@github.com/marcilr/postman      postman
 ssh://git@github.com/marcilr/pkg-config   pkg-config
