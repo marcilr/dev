@@ -31,3 +31,4 @@ ssh://git@github.com/marcilr/os                 os
 ssh://git@github.com/marcilr/postman            postman
 ssh://git@github.com/marcilr/pkg-config         pkg-config
 ssh://git@github.com/marcilr/revision-control   revision-control
+ssh://git@github.com/marcilr/selenium           selenium
