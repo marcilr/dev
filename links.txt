@@ -128,6 +128,14 @@ TARTS
 Wireless Sensors for Makers
 https://www.tartssensors.com/?gclid=CLiQoqWy5MsCFQdqfgodW3cBIw
 
+The Cathedral and the Bazaar: "Every good work of
+software starts by scratching a developer's
+personal itch."
+Eric Steven Raymond
+Thyrsus Enterprises, http://www.tuxedo.org/~esr/
+<esr@thyrsus.com>
+http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+
 The Rule of Silence
 Some very good thoughts here.
 http://www.linfo.org/rule_of_silence.html
