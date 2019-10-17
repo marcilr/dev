@@ -79,6 +79,13 @@ http://nedbatchelder.com/blog/200612/how_to_move_a_subversion_repository.html
 Intro to Distributed Version Control (Illustrated)
 http://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
 
+Linus Torvalds isn't worried about Microsoft taking over Linux
+And you shouldn't be either. Every company wants to rule Linux 
+-- none of them can or ever will.
+Steven J. Vaughan-Nichols
+By Steven J. Vaughan-Nichols for Linux and Open Source | October 7, 2019 -- 13:35 GMT (06:35 PDT) | Topic: Enterprise Software
+https://www.zdnet.com/article/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux/
+
 LWN.net is a reader-supported news site dedicated to producing the best  
 coverage from  within the Linux and free software development communities.  
 http://lwn.net/ 
